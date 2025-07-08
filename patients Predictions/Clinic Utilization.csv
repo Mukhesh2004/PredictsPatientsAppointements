@@ -1,0 +1,1646 @@
+﻿Encounter ID,Doctor ID,Clinic Location,Department,Patient ID,Appointment Date/Time,Appointment Type,Appointment Length,Reason For Visit,Insurance,Visit Status
+10001,881452,Marina Del Rey,Podiatry,15709,1-3-22 8:00 AM,New Patient,30,Foot pain,Cash pay,No-Show
+10002,881452,Marina Del Rey,Podiatry,12718,1-3-22 8:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10003,881452,Marina Del Rey,Podiatry,13914,1-3-22 8:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10004,881452,Marina Del Rey,Podiatry,12611,1-3-22 9:00 AM,Follow-up Visit,15,Big toe pain,Private,Completed
+10005,881452,Marina Del Rey,Podiatry,13400,1-3-22 9:15 AM,New Patient,30,Heel pain,Private,Completed
+10006,881452,Marina Del Rey,Podiatry,12771,1-3-22 9:45 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10007,881452,Marina Del Rey,Podiatry,14507,1-3-22 10:00 AM,New Patient,30,Surgical consult,Private,No-Show
+10008,881452,Marina Del Rey,Podiatry,16868,1-3-22 10:30 AM,Follow-up Visit,15,Heel pain,Medicare,Completed
+10009,881452,Marina Del Rey,Podiatry,11352,1-3-22 10:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+10010,881452,Marina Del Rey,Podiatry,18234,1-3-22 11:00 AM,Follow-up Visit,15,Postop,Private,Completed
+10011,881452,Marina Del Rey,Podiatry,11752,1-3-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10012,881452,Marina Del Rey,Podiatry,19687,1-3-22 11:30 AM,New Patient,30,Achilles tendon,Private,Completed
+10013,881452,Marina Del Rey,Podiatry,19173,1-3-22 12:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10014,881452,Marina Del Rey,Podiatry,18911,1-3-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+10015,881452,Marina Del Rey,Podiatry,13538,1-3-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+10016,881452,Marina Del Rey,Podiatry,10403,1-3-22 1:15 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10017,881452,Marina Del Rey,Podiatry,19594,1-3-22 1:30 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10018,881452,Marina Del Rey,Podiatry,19750,1-3-22 1:45 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10019,881452,Marina Del Rey,Podiatry,17058,1-3-22 2:00 PM,New Patient,30,Ingrown toenail,Private,Completed
+10020,881452,Marina Del Rey,Podiatry,11787,1-3-22 2:30 PM,New Patient,30,Nail fungus,Medicare,Completed
+10021,881452,Marina Del Rey,Podiatry,12749,1-3-22 3:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,Cancelled
+10022,881452,Marina Del Rey,Podiatry,14641,1-3-22 3:15 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10023,881452,Marina Del Rey,Podiatry,12120,1-3-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10024,881452,Marina Del Rey,Podiatry,15170,1-3-22 3:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10025,881452,Marina Del Rey,Podiatry,15421,1-5-22 8:00 AM,New Patient,30,Flat feet,Private,Completed
+10026,881452,Marina Del Rey,Podiatry,18676,1-5-22 8:30 AM,Follow-up Visit,15,Injection,Private,No-Show
+10027,881452,Marina Del Rey,Podiatry,15494,1-5-22 8:45 AM,Follow-up Visit,15,Postop,Private,Completed
+10028,881452,Marina Del Rey,Podiatry,18514,1-5-22 9:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10029,881452,Marina Del Rey,Podiatry,14821,1-5-22 9:15 AM,Follow-up Visit,15,Hammertoes,Private,Completed
+10030,881452,Marina Del Rey,Podiatry,11041,1-5-22 9:30 AM,New Patient,30,Surgical consult,Private,Rescheduled
+10031,881452,Marina Del Rey,Podiatry,12664,1-5-22 10:00 AM,New Patient,30,Wound,Medicare,Completed
+10032,881452,Marina Del Rey,Podiatry,13349,1-5-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10033,881452,Marina Del Rey,Podiatry,17786,1-5-22 10:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10034,881452,Marina Del Rey,Podiatry,12097,1-5-22 11:00 AM,Procedure,60,Biopsy,Private,Completed
+10035,881452,Marina Del Rey,Podiatry,18304,1-5-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+10036,881452,Marina Del Rey,Podiatry,19629,1-5-22 1:00 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10037,881452,Marina Del Rey,Podiatry,13952,1-5-22 1:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10038,881452,Marina Del Rey,Podiatry,11762,1-5-22 1:45 PM,Follow-up Visit,15,Foot pain,Private,Completed
+10039,881452,Marina Del Rey,Podiatry,10195,1-5-22 2:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+10040,881452,Marina Del Rey,Podiatry,14372,1-5-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+10041,881452,Marina Del Rey,Podiatry,18792,1-5-22 2:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+10042,881452,Marina Del Rey,Podiatry,15251,1-5-22 3:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10043,881452,Marina Del Rey,Podiatry,15447,1-5-22 3:15 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10044,881452,Marina Del Rey,Podiatry,13935,1-5-22 3:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10045,881452,Marina Del Rey,Podiatry,14918,1-6-22 8:15 AM,Follow-up Visit,15,Calluses,Private,Completed
+10046,881452,Marina Del Rey,Podiatry,19459,1-6-22 8:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10047,881452,Marina Del Rey,Podiatry,10803,1-6-22 9:00 AM,New Patient,30,Routine foot care,Private,Completed
+10048,881452,Marina Del Rey,Podiatry,10677,1-6-22 9:30 AM,New Patient,30,Neuroma,Private,Completed
+10049,881452,Marina Del Rey,Podiatry,16366,1-6-22 10:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10050,881452,Marina Del Rey,Podiatry,11477,1-6-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Private,No-Show
+10051,881452,Marina Del Rey,Podiatry,14024,1-6-22 10:30 AM,Follow-up Visit,15,Injection,Private,Completed
+10052,881452,Marina Del Rey,Podiatry,12736,1-6-22 10:45 AM,Follow-up Visit,15,Procedure F/U,Private,Completed
+10053,881452,Marina Del Rey,Podiatry,10627,1-6-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10054,881452,Marina Del Rey,Podiatry,10145,1-6-22 11:30 AM,New Patient,30,Preop consult,Private,Completed
+10055,881452,Marina Del Rey,Podiatry,16812,1-6-22 12:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10056,881452,Marina Del Rey,Podiatry,19392,1-6-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+10057,881452,Marina Del Rey,Podiatry,16205,1-6-22 1:15 PM,Follow-up Visit,15,Postop,Medicare,Completed
+10058,881452,Marina Del Rey,Podiatry,14856,1-6-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10059,881452,Marina Del Rey,Podiatry,14210,1-6-22 1:45 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10060,881452,Marina Del Rey,Podiatry,14658,1-6-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+10061,881452,Marina Del Rey,Podiatry,10222,1-6-22 2:30 PM,New Patient,30,Wound,Private,Completed
+10062,881452,Marina Del Rey,Podiatry,18061,1-6-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Cancelled
+10063,881452,Marina Del Rey,Podiatry,14636,1-7-22 8:30 AM,New Patient,30,Big toe pain,Private,Completed
+10064,881452,Marina Del Rey,Podiatry,15252,1-7-22 9:00 AM,Follow-up Visit,15,Plantar fasciitis,Cash pay,No-Show
+10065,881452,Marina Del Rey,Podiatry,17497,1-7-22 9:15 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10066,881452,Marina Del Rey,Podiatry,10250,1-7-22 9:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+10067,881452,Marina Del Rey,Podiatry,15015,1-7-22 10:00 AM,New Patient,30,Plantar fasciitis,Private,Cancelled
+10068,881452,Marina Del Rey,Podiatry,13816,1-7-22 11:00 AM,New Patient,30,Foot pain,Private,Completed
+10069,881452,Marina Del Rey,Podiatry,16666,1-7-22 12:30 PM,Follow-up Visit,15,Postop,Private,Completed
+10070,881452,Marina Del Rey,Podiatry,19821,1-7-22 12:45 PM,Follow-up Visit,15,Injection,Private,Completed
+10071,881452,Marina Del Rey,Podiatry,19654,1-7-22 1:30 PM,New Patient,30,Achilles tendon,Private,Completed
+10072,881452,Marina Del Rey,Podiatry,11181,1-7-22 2:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10073,881452,Marina Del Rey,Podiatry,12075,1-7-22 2:15 PM,Follow-up Visit,15,Routine foot care,Private,No-Show
+10074,881452,Marina Del Rey,Podiatry,18400,1-7-22 2:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10075,881452,Marina Del Rey,Podiatry,19459,1-7-22 2:45 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10076,881452,Marina Del Rey,Podiatry,19523,1-7-22 3:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10077,881452,Marina Del Rey,Podiatry,19241,1-10-22 8:00 AM,New Patient,30,Foot pain,Private,No-Show
+10078,881452,Marina Del Rey,Podiatry,16719,1-10-22 8:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10079,881452,Marina Del Rey,Podiatry,18327,1-10-22 8:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10080,881452,Marina Del Rey,Podiatry,18375,1-10-22 9:00 AM,Follow-up Visit,15,Big toe pain,Medicare,Completed
+10081,881452,Marina Del Rey,Podiatry,10198,1-10-22 9:15 AM,New Patient,30,Nail fungus,Medicare,Completed
+10082,881452,Marina Del Rey,Podiatry,17267,1-10-22 9:45 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10083,881452,Marina Del Rey,Podiatry,11383,1-10-22 10:00 AM,New Patient,30,Surgical consult,Private,Completed
+10084,881452,Marina Del Rey,Podiatry,11564,1-10-22 10:30 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10085,881452,Marina Del Rey,Podiatry,12427,1-10-22 10:45 AM,Follow-up Visit,15,Foot pain,Private,Completed
+10086,881452,Marina Del Rey,Podiatry,16697,1-10-22 11:00 AM,Follow-up Visit,15,Postop,Medicare,Completed
+10087,881452,Marina Del Rey,Podiatry,19326,1-10-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10088,881452,Marina Del Rey,Podiatry,18220,1-10-22 11:30 AM,New Patient,30,Achilles tendon,Private,Completed
+10089,881452,Marina Del Rey,Podiatry,19316,1-10-22 12:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10090,881452,Marina Del Rey,Podiatry,11048,1-10-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+10091,881452,Marina Del Rey,Podiatry,12234,1-10-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+10092,881452,Marina Del Rey,Podiatry,10180,1-10-22 1:15 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10093,881452,Marina Del Rey,Podiatry,14116,1-10-22 1:30 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10094,881452,Marina Del Rey,Podiatry,14136,1-10-22 1:45 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10095,881452,Marina Del Rey,Podiatry,11465,1-10-22 2:00 PM,New Patient,30,Ingrown toenail,Private,Completed
+10096,881452,Marina Del Rey,Podiatry,10391,1-10-22 2:30 PM,New Patient,30,Surgical consult,Private,Completed
+10097,881452,Marina Del Rey,Podiatry,15612,1-10-22 3:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10098,881452,Marina Del Rey,Podiatry,10656,1-10-22 3:15 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10099,881452,Marina Del Rey,Podiatry,14970,1-10-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10100,881452,Marina Del Rey,Podiatry,17996,1-10-22 3:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10101,881452,Marina Del Rey,Podiatry,16452,1-11-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10102,881452,Marina Del Rey,Podiatry,14789,1-11-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10103,881452,Marina Del Rey,Podiatry,10384,1-11-22 8:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10104,881452,Marina Del Rey,Podiatry,11172,1-11-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+10105,881452,Marina Del Rey,Podiatry,18521,1-11-22 9:00 AM,Follow-up Visit,15,Ankle pain,Medicare,Completed
+10106,881452,Marina Del Rey,Podiatry,12455,1-11-22 9:15 AM,New Patient,30,Ingrown toenail,Private,Completed
+10107,881452,Marina Del Rey,Podiatry,15542,1-11-22 9:45 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10108,881452,Marina Del Rey,Podiatry,12722,1-11-22 10:00 AM,Follow-up Visit,15,Foot pain,Private,Completed
+10109,881452,Marina Del Rey,Podiatry,17709,1-11-22 10:15 AM,New Patient,30,Arch pain,Private,Completed
+10110,881452,Marina Del Rey,Podiatry,16633,1-11-22 10:45 AM,Follow-up Visit,15,Injection,Private,Completed
+10111,881452,Marina Del Rey,Podiatry,17498,1-11-22 11:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10112,881452,Marina Del Rey,Podiatry,11828,1-11-22 12:30 PM,Follow-up Visit,15,Heel pain,Medicare,Completed
+10113,881452,Marina Del Rey,Podiatry,12527,1-11-22 12:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10114,881452,Marina Del Rey,Podiatry,10342,1-11-22 1:00 PM,New Patient,30,Injection,Private,Completed
+10115,881452,Marina Del Rey,Podiatry,11066,1-11-22 1:30 PM,Follow-up Visit,30,Wound care,Medicare,Cancelled
+10116,881452,Marina Del Rey,Podiatry,11604,1-11-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10117,881452,Marina Del Rey,Podiatry,18319,1-11-22 2:15 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10118,881452,Marina Del Rey,Podiatry,17005,1-11-22 2:30 PM,Follow-up Visit,15,Procedure F/U,Private,Completed
+10119,881452,Marina Del Rey,Podiatry,16403,1-11-22 2:45 PM,New Patient,30,Surgical consult,Private,Completed
+10120,881452,Marina Del Rey,Podiatry,10565,1-11-22 3:15 PM,New Patient,30,Heel pain,Cash pay,No-Show
+10121,881452,Marina Del Rey,Podiatry,10736,1-12-22 8:00 AM,New Patient,30,Flat feet,Private,Completed
+10122,881452,Marina Del Rey,Podiatry,18180,1-12-22 8:30 AM,Follow-up Visit,15,Injection,Medicare,Completed
+10123,881452,Marina Del Rey,Podiatry,17237,1-12-22 8:45 AM,Follow-up Visit,15,Postop,Private,Completed
+10124,881452,Marina Del Rey,Podiatry,19491,1-12-22 9:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10125,881452,Marina Del Rey,Podiatry,12577,1-12-22 9:15 AM,Follow-up Visit,15,Hammertoes,Medicare,Completed
+10126,881452,Marina Del Rey,Podiatry,15088,1-12-22 9:30 AM,New Patient,30,Surgical consult,Private,Rescheduled
+10127,881452,Marina Del Rey,Podiatry,12839,1-12-22 10:00 AM,New Patient,30,Wound,Medicare,Completed
+10128,881452,Marina Del Rey,Podiatry,14597,1-12-22 10:30 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10129,881452,Marina Del Rey,Podiatry,12260,1-12-22 10:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10130,881452,Marina Del Rey,Podiatry,15328,1-12-22 11:00 AM,Procedure,60,Biopsy,Medicare,Completed
+10131,881452,Marina Del Rey,Podiatry,15370,1-12-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+10132,881452,Marina Del Rey,Podiatry,16595,1-12-22 1:00 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10133,881452,Marina Del Rey,Podiatry,12204,1-12-22 1:15 PM,Follow-up Visit,30,Wound care,Private,Completed
+10134,881452,Marina Del Rey,Podiatry,12745,1-12-22 1:45 PM,Follow-up Visit,15,Foot pain,Private,Completed
+10135,881452,Marina Del Rey,Podiatry,12951,1-12-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10136,881452,Marina Del Rey,Podiatry,12790,1-12-22 2:15 PM,Follow-up Visit,15,Injection,Medicare,Completed
+10137,881452,Marina Del Rey,Podiatry,17803,1-12-22 2:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+10138,881452,Marina Del Rey,Podiatry,11803,1-12-22 3:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10139,881452,Marina Del Rey,Podiatry,18896,1-12-22 3:15 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10140,881452,Marina Del Rey,Podiatry,18133,1-12-22 3:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10141,881452,Marina Del Rey,Podiatry,11868,1-13-22 8:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10142,881452,Marina Del Rey,Podiatry,11636,1-13-22 8:30 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10143,881452,Marina Del Rey,Podiatry,15998,1-13-22 9:00 AM,New Patient,30,Routine foot care,Private,Completed
+10144,881452,Marina Del Rey,Podiatry,10107,1-13-22 9:30 AM,New Patient,30,Neuroma,Private,Completed
+10145,881452,Marina Del Rey,Podiatry,14041,1-13-22 10:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10146,881452,Marina Del Rey,Podiatry,13205,1-13-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Cash pay,No-Show
+10147,881452,Marina Del Rey,Podiatry,14176,1-13-22 10:30 AM,Follow-up Visit,15,Injection,Private,Completed
+10148,881452,Marina Del Rey,Podiatry,13006,1-13-22 10:45 AM,Follow-up Visit,15,Procedure F/U,Private,Completed
+10149,881452,Marina Del Rey,Podiatry,16248,1-13-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10150,881452,Marina Del Rey,Podiatry,11551,1-13-22 11:30 AM,New Patient,30,Plantar fasciitis,Private,Completed
+10151,881452,Marina Del Rey,Podiatry,10757,1-13-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10152,881452,Marina Del Rey,Podiatry,19757,1-13-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+10153,881452,Marina Del Rey,Podiatry,18383,1-13-22 1:15 PM,Follow-up Visit,15,Postop,Private,Completed
+10154,881452,Marina Del Rey,Podiatry,15749,1-13-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10155,881452,Marina Del Rey,Podiatry,19523,1-13-22 1:45 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10156,881452,Marina Del Rey,Podiatry,16037,1-13-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+10157,881452,Marina Del Rey,Podiatry,12055,1-13-22 2:30 PM,New Patient,30,Wound,Private,Completed
+10158,881452,Marina Del Rey,Podiatry,13309,1-13-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Cancelled
+10159,881452,Marina Del Rey,Podiatry,16267,1-14-22 8:30 AM,New Patient,30,Big toe pain,Private,No-Show
+10160,881452,Marina Del Rey,Podiatry,14102,1-14-22 9:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10161,881452,Marina Del Rey,Podiatry,16314,1-14-22 9:15 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10162,881452,Marina Del Rey,Podiatry,19907,1-14-22 9:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+10163,881452,Marina Del Rey,Podiatry,14627,1-14-22 10:00 AM,New Patient,30,Plantar fasciitis,Private,Cancelled
+10164,881452,Marina Del Rey,Podiatry,11840,1-14-22 11:00 AM,New Patient,30,Foot pain,Medicare,Completed
+10165,881452,Marina Del Rey,Podiatry,14237,1-14-22 12:30 PM,Follow-up Visit,15,Postop,Private,Completed
+10166,881452,Marina Del Rey,Podiatry,17302,1-14-22 12:45 PM,Follow-up Visit,15,Injection,Private,Completed
+10167,881452,Marina Del Rey,Podiatry,16610,1-14-22 1:30 PM,New Patient,30,Achilles tendon,Private,Completed
+10168,881452,Marina Del Rey,Podiatry,18682,1-14-22 2:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10169,881452,Marina Del Rey,Podiatry,16478,1-14-22 2:15 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10170,881452,Marina Del Rey,Podiatry,10664,1-14-22 2:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10171,881452,Marina Del Rey,Podiatry,13985,1-14-22 2:45 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10172,881452,Marina Del Rey,Podiatry,12348,1-14-22 3:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10173,881452,Marina Del Rey,Podiatry,16425,1-19-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,No-Show
+10174,881452,Marina Del Rey,Podiatry,12201,1-19-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Medicare,Completed
+10175,881452,Marina Del Rey,Podiatry,16690,1-19-22 8:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10176,881452,Marina Del Rey,Podiatry,11209,1-19-22 8:45 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10177,881452,Marina Del Rey,Podiatry,11557,1-19-22 9:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10178,881452,Marina Del Rey,Podiatry,13454,1-19-22 9:15 AM,New Patient,30,Ingrown toenail,Private,Completed
+10179,881452,Marina Del Rey,Podiatry,17697,1-19-22 9:45 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10180,881452,Marina Del Rey,Podiatry,12920,1-19-22 10:00 AM,Follow-up Visit,15,Calluses,Private,Completed
+10181,881452,Marina Del Rey,Podiatry,17497,1-19-22 10:15 AM,New Patient,30,Arch pain,Private,Completed
+10182,881452,Marina Del Rey,Podiatry,14311,1-19-22 10:45 AM,Follow-up Visit,15,Injection,Private,Completed
+10183,881452,Marina Del Rey,Podiatry,11974,1-19-22 11:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10184,881452,Marina Del Rey,Podiatry,14086,1-19-22 12:30 PM,Follow-up Visit,15,Heel pain,Medicare,Completed
+10185,881452,Marina Del Rey,Podiatry,18039,1-19-22 12:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10186,881452,Marina Del Rey,Podiatry,12524,1-19-22 1:00 PM,New Patient,30,Injection,Private,Completed
+10187,881452,Marina Del Rey,Podiatry,11094,1-19-22 1:30 PM,Follow-up Visit,30,Wound care,Medicare,Cancelled
+10188,881452,Marina Del Rey,Podiatry,19502,1-19-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10189,881452,Marina Del Rey,Podiatry,17508,1-19-22 2:15 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10190,881452,Marina Del Rey,Podiatry,13232,1-19-22 2:30 PM,Follow-up Visit,15,Procedure F/U,Medicare,Completed
+10191,881452,Marina Del Rey,Podiatry,12524,1-19-22 2:45 PM,New Patient,30,Surgical consult,Private,Completed
+10192,881452,Marina Del Rey,Podiatry,10571,1-19-22 3:15 PM,New Patient,30,Plantar fasciitis,Private,No-Show
+10193,881452,Marina Del Rey,Podiatry,16936,1-20-22 8:00 AM,New Patient,30,Flat feet,Private,Completed
+10194,881452,Marina Del Rey,Podiatry,12952,1-20-22 8:30 AM,Follow-up Visit,15,Injection,Medicare,Completed
+10195,881452,Marina Del Rey,Podiatry,10935,1-20-22 8:45 AM,Follow-up Visit,15,Postop,Private,Completed
+10196,881452,Marina Del Rey,Podiatry,10407,1-20-22 9:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10197,881452,Marina Del Rey,Podiatry,19474,1-20-22 9:15 AM,Follow-up Visit,15,Hammertoes,Private,Completed
+10198,881452,Marina Del Rey,Podiatry,14820,1-20-22 9:30 AM,New Patient,30,Surgical consult,Medicare,Rescheduled
+10199,881452,Marina Del Rey,Podiatry,18415,1-20-22 10:00 AM,New Patient,30,Wound,Private,Completed
+10200,881452,Marina Del Rey,Podiatry,16737,1-20-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10201,881452,Marina Del Rey,Podiatry,15805,1-20-22 10:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10202,881452,Marina Del Rey,Podiatry,14575,1-20-22 11:00 AM,Procedure,60,Biopsy,Private,Completed
+10203,881452,Marina Del Rey,Podiatry,16885,1-20-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+10204,881452,Marina Del Rey,Podiatry,13060,1-20-22 1:00 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10205,881452,Marina Del Rey,Podiatry,15316,1-20-22 1:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10206,881452,Marina Del Rey,Podiatry,14483,1-20-22 1:45 PM,Follow-up Visit,15,Foot pain,Private,Completed
+10207,881452,Marina Del Rey,Podiatry,10828,1-20-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10208,881452,Marina Del Rey,Podiatry,17953,1-20-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+10209,881452,Marina Del Rey,Podiatry,10305,1-20-22 2:30 PM,New Patient,30,Preop consult,Private,Completed
+10210,881452,Marina Del Rey,Podiatry,13481,1-20-22 3:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10211,881452,Marina Del Rey,Podiatry,17680,1-20-22 3:15 PM,Follow-up Visit,15,Routine foot care,Cash pay,No-Show
+10212,881452,Marina Del Rey,Podiatry,11651,1-20-22 3:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10213,881452,Marina Del Rey,Podiatry,13726,1-21-22 8:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10214,881452,Marina Del Rey,Podiatry,10692,1-21-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,No-Show
+10215,881452,Marina Del Rey,Podiatry,11849,1-21-22 9:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+10216,881452,Marina Del Rey,Podiatry,17404,1-21-22 9:30 AM,New Patient,30,Neuroma,Private,Completed
+10217,881452,Marina Del Rey,Podiatry,19634,1-21-22 10:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10218,881452,Marina Del Rey,Podiatry,19937,1-21-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Private,No-Show
+10219,881452,Marina Del Rey,Podiatry,19053,1-21-22 10:30 AM,Follow-up Visit,15,Injection,Private,Completed
+10220,881452,Marina Del Rey,Podiatry,10127,1-21-22 10:45 AM,Follow-up Visit,15,Procedure F/U,Private,Completed
+10221,881452,Marina Del Rey,Podiatry,17323,1-21-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10222,881452,Marina Del Rey,Podiatry,19658,1-21-22 11:30 AM,New Patient,30,Plantar fasciitis,Private,Completed
+10223,881452,Marina Del Rey,Podiatry,11576,1-21-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10224,881452,Marina Del Rey,Podiatry,19833,1-21-22 1:00 PM,Follow-up Visit,15,Injection,Private,No-Show
+10225,881452,Marina Del Rey,Podiatry,10363,1-21-22 1:15 PM,Follow-up Visit,15,Postop,Private,Completed
+10226,881452,Marina Del Rey,Podiatry,13737,1-21-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10227,881452,Marina Del Rey,Podiatry,10087,1-21-22 1:45 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10228,881452,Marina Del Rey,Podiatry,18620,1-21-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+10229,881452,Marina Del Rey,Podiatry,19487,1-21-22 2:30 PM,New Patient,30,Wound,Medicare,Completed
+10230,881452,Marina Del Rey,Podiatry,13677,1-21-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Cancelled
+10231,881452,Marina Del Rey,Podiatry,16054,1-24-22 8:30 AM,New Patient,30,Nail fungus,Medicare,Completed
+10232,881452,Marina Del Rey,Podiatry,11544,1-24-22 9:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10233,881452,Marina Del Rey,Podiatry,10141,1-24-22 9:15 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10234,881452,Marina Del Rey,Podiatry,12690,1-24-22 9:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+10235,881452,Marina Del Rey,Podiatry,18215,1-24-22 10:00 AM,New Patient,30,Plantar fasciitis,Private,Cancelled
+10236,881452,Marina Del Rey,Podiatry,13084,1-24-22 11:00 AM,New Patient,30,Foot pain,Private,Completed
+10237,881452,Marina Del Rey,Podiatry,13364,1-24-22 12:30 PM,Follow-up Visit,15,Postop,Private,Completed
+10238,881452,Marina Del Rey,Podiatry,15585,1-24-22 12:45 PM,Follow-up Visit,15,Injection,Private,Completed
+10239,881452,Marina Del Rey,Podiatry,16431,1-24-22 1:30 PM,New Patient,30,Achilles tendon,Private,Completed
+10240,881452,Marina Del Rey,Podiatry,11133,1-24-22 2:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10241,881452,Marina Del Rey,Podiatry,11599,1-24-22 2:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10242,881452,Marina Del Rey,Podiatry,15795,1-24-22 2:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10243,881452,Marina Del Rey,Podiatry,18673,1-24-22 2:45 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10244,881452,Marina Del Rey,Podiatry,18910,1-24-22 3:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10245,881452,Marina Del Rey,Podiatry,14034,1-26-22 8:00 AM,New Patient,30,Calluses,Cash pay,No-Show
+10246,881452,Marina Del Rey,Podiatry,10988,1-26-22 8:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10247,881452,Marina Del Rey,Podiatry,15082,1-26-22 8:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10248,881452,Marina Del Rey,Podiatry,18722,1-26-22 9:00 AM,Follow-up Visit,15,Big toe pain,Private,Completed
+10249,881452,Marina Del Rey,Podiatry,15983,1-26-22 9:15 AM,New Patient,30,Heel pain,Private,Completed
+10250,881452,Marina Del Rey,Podiatry,10765,1-26-22 9:45 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10251,881452,Marina Del Rey,Podiatry,12449,1-26-22 10:00 AM,New Patient,30,Surgical consult,Private,Completed
+10252,881452,Marina Del Rey,Podiatry,11759,1-26-22 10:30 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10253,881452,Marina Del Rey,Podiatry,17577,1-26-22 10:45 AM,Follow-up Visit,15,Foot pain,Private,Completed
+10254,881452,Marina Del Rey,Podiatry,17694,1-26-22 11:00 AM,Follow-up Visit,15,Postop,Private,Completed
+10255,881452,Marina Del Rey,Podiatry,18036,1-26-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10256,881452,Marina Del Rey,Podiatry,13172,1-26-22 11:30 AM,New Patient,30,Achilles tendon,Private,Completed
+10257,881452,Marina Del Rey,Podiatry,18514,1-26-22 12:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10258,881452,Marina Del Rey,Podiatry,14300,1-26-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+10259,881452,Marina Del Rey,Podiatry,10946,1-26-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+10260,881452,Marina Del Rey,Podiatry,16068,1-26-22 1:15 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10261,881452,Marina Del Rey,Podiatry,18617,1-26-22 1:30 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10262,881452,Marina Del Rey,Podiatry,17647,1-26-22 1:45 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10263,881452,Marina Del Rey,Podiatry,13138,1-26-22 2:00 PM,New Patient,30,Ingrown toenail,Private,Completed
+10264,881452,Marina Del Rey,Podiatry,13117,1-26-22 2:30 PM,New Patient,30,Surgical consult,Private,Completed
+10265,881452,Marina Del Rey,Podiatry,10097,1-26-22 3:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10266,881452,Marina Del Rey,Podiatry,14147,1-26-22 3:15 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10267,881452,Marina Del Rey,Podiatry,11515,1-26-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10268,881452,Marina Del Rey,Podiatry,10352,1-26-22 3:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10269,881452,Marina Del Rey,Podiatry,19015,1-27-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,No-Show
+10270,881452,Marina Del Rey,Podiatry,15249,1-27-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10271,881452,Marina Del Rey,Podiatry,10203,1-27-22 8:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10272,881452,Marina Del Rey,Podiatry,14489,1-27-22 8:45 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10273,881452,Marina Del Rey,Podiatry,17223,1-27-22 9:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10274,881452,Marina Del Rey,Podiatry,11286,1-27-22 9:15 AM,New Patient,30,Ingrown toenail,Private,Completed
+10275,881452,Marina Del Rey,Podiatry,18416,1-27-22 9:45 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10276,881452,Marina Del Rey,Podiatry,14875,1-27-22 10:00 AM,Follow-up Visit,15,Foot pain,Private,Completed
+10277,881452,Marina Del Rey,Podiatry,18777,1-27-22 10:15 AM,New Patient,30,Arch pain,Private,Completed
+10278,881452,Marina Del Rey,Podiatry,10064,1-27-22 10:45 AM,Follow-up Visit,15,Injection,Private,Completed
+10279,881452,Marina Del Rey,Podiatry,11938,1-27-22 11:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10280,881452,Marina Del Rey,Podiatry,10383,1-27-22 12:30 PM,Follow-up Visit,15,Heel pain,Medicare,Completed
+10281,881452,Marina Del Rey,Podiatry,20000,1-27-22 12:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10282,881452,Marina Del Rey,Podiatry,18643,1-27-22 1:00 PM,New Patient,30,Injection,Private,Completed
+10283,881452,Marina Del Rey,Podiatry,18333,1-27-22 1:30 PM,Follow-up Visit,30,Wound care,Medicare,Cancelled
+10284,881452,Marina Del Rey,Podiatry,11950,1-27-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10285,881452,Marina Del Rey,Podiatry,17709,1-27-22 2:15 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10286,881452,Marina Del Rey,Podiatry,15068,1-27-22 2:30 PM,Follow-up Visit,15,Procedure F/U,Medicare,Completed
+10287,881452,Marina Del Rey,Podiatry,17585,1-27-22 2:45 PM,New Patient,30,Surgical consult,Private,Completed
+10288,881452,Marina Del Rey,Podiatry,12318,1-27-22 3:15 PM,New Patient,30,Plantar fasciitis,Private,No-Show
+10289,881452,Marina Del Rey,Podiatry,14158,1-28-22 8:00 AM,New Patient,30,Preop consult,Private,Rescheduled
+10290,881452,Marina Del Rey,Podiatry,16281,1-28-22 8:30 AM,Follow-up Visit,15,Injection,Private,Completed
+10291,881452,Marina Del Rey,Podiatry,15647,1-28-22 8:45 AM,Follow-up Visit,15,Postop,Private,Completed
+10292,881452,Marina Del Rey,Podiatry,10838,1-28-22 9:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10293,881452,Marina Del Rey,Podiatry,19035,1-28-22 9:15 AM,Follow-up Visit,15,Hammertoes,Private,Completed
+10294,881452,Marina Del Rey,Podiatry,19559,1-28-22 9:30 AM,New Patient,30,Surgical consult,Medicare,Rescheduled
+10295,881452,Marina Del Rey,Podiatry,14395,1-28-22 10:00 AM,New Patient,30,Wound,Private,Completed
+10296,881452,Marina Del Rey,Podiatry,12471,1-28-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10297,881452,Marina Del Rey,Podiatry,18688,1-28-22 10:45 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+10298,881452,Marina Del Rey,Podiatry,16737,1-28-22 11:00 AM,Procedure,60,Biopsy,Private,Completed
+10299,881452,Marina Del Rey,Podiatry,18872,1-28-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+10300,881452,Marina Del Rey,Podiatry,18690,1-28-22 1:00 PM,Follow-up Visit,15,Ankle pain,Private,Completed
+10301,881452,Marina Del Rey,Podiatry,11193,1-28-22 1:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10302,881452,Marina Del Rey,Podiatry,19627,1-28-22 1:45 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10303,881452,Marina Del Rey,Podiatry,19783,1-28-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10304,881452,Marina Del Rey,Podiatry,13766,1-28-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+10305,881452,Marina Del Rey,Podiatry,11473,1-28-22 2:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+10306,881452,Marina Del Rey,Podiatry,18189,1-28-22 3:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10307,881452,Marina Del Rey,Podiatry,16900,1-28-22 3:15 PM,Follow-up Visit,15,Routine foot care,Cash pay,No-Show
+10308,881452,Marina Del Rey,Podiatry,15716,1-28-22 3:30 PM,Follow-up Visit,15,Injection,Private,No-Show
+10309,881452,Marina Del Rey,Podiatry,12430,1-31-22 8:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10310,881452,Marina Del Rey,Podiatry,11792,1-31-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10311,881452,Marina Del Rey,Podiatry,15054,1-31-22 9:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+10312,881452,Marina Del Rey,Podiatry,12398,1-31-22 9:30 AM,New Patient,30,Neuroma,Private,Completed
+10313,881452,Marina Del Rey,Podiatry,18645,1-31-22 10:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10314,881452,Marina Del Rey,Podiatry,14413,1-31-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Private,No-Show
+10315,881452,Marina Del Rey,Podiatry,10164,1-31-22 10:30 AM,Follow-up Visit,15,Injection,Private,Completed
+10316,881452,Marina Del Rey,Podiatry,12070,1-31-22 10:45 AM,Follow-up Visit,15,Procedure F/U,Private,Completed
+10317,881452,Marina Del Rey,Podiatry,12993,1-31-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10318,881452,Marina Del Rey,Podiatry,10040,1-31-22 11:30 AM,New Patient,30,Plantar fasciitis,Private,Completed
+10319,881452,Marina Del Rey,Podiatry,13444,1-31-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10320,881452,Marina Del Rey,Podiatry,10547,1-31-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+10321,881452,Marina Del Rey,Podiatry,13640,1-31-22 1:15 PM,Follow-up Visit,15,Postop,Private,Completed
+10322,881452,Marina Del Rey,Podiatry,15204,1-31-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10323,881452,Marina Del Rey,Podiatry,15451,1-31-22 1:45 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+10324,881452,Marina Del Rey,Podiatry,14115,1-31-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+10325,881452,Marina Del Rey,Podiatry,11785,1-31-22 2:30 PM,New Patient,30,Wound,Medicare,Completed
+10326,881452,Marina Del Rey,Podiatry,16125,1-31-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Cancelled
+10327,745113,Culver City,Podiatry,13255,1-3-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10328,745113,Culver City,Podiatry,18770,1-3-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10329,745113,Culver City,Podiatry,16905,1-3-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10330,745113,Culver City,Podiatry,17602,1-3-22 9:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10331,745113,Culver City,Podiatry,16781,1-3-22 9:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10332,745113,Culver City,Podiatry,13165,1-3-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10333,745113,Culver City,Podiatry,12616,1-3-22 11:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10334,745113,Culver City,Podiatry,13526,1-3-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10335,745113,Culver City,Podiatry,10977,1-3-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10336,745113,Culver City,Podiatry,16663,1-3-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10337,745113,Culver City,Podiatry,12544,1-3-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10338,745113,Culver City,Podiatry,16010,1-3-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10339,745113,Culver City,Podiatry,16439,1-3-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10340,745113,Culver City,Podiatry,12355,1-3-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10341,745113,Culver City,Podiatry,18642,1-3-22 2:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10342,745113,Culver City,Podiatry,18554,1-3-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10343,745113,Culver City,Podiatry,10216,1-3-22 3:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10344,745113,Culver City,Podiatry,18163,1-3-22 3:15 PM,Follow-up Visit,15,Postop,Medicare,Completed
+10345,745113,Culver City,Podiatry,13776,1-3-22 3:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10346,745113,Culver City,Podiatry,17639,1-4-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10347,745113,Culver City,Podiatry,18394,1-4-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10348,745113,Culver City,Podiatry,18449,1-4-22 9:00 AM,New Patient,30,Wound,Medicare,Completed
+10349,745113,Culver City,Podiatry,18096,1-4-22 9:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10350,745113,Culver City,Podiatry,19323,1-4-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+10351,745113,Culver City,Podiatry,11362,1-4-22 10:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10352,745113,Culver City,Podiatry,13557,1-4-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10353,745113,Culver City,Podiatry,19785,1-4-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10354,745113,Culver City,Podiatry,10658,1-4-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10355,745113,Culver City,Podiatry,14108,1-4-22 11:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10356,745113,Culver City,Podiatry,16875,1-4-22 11:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10357,745113,Culver City,Podiatry,14520,1-4-22 12:30 PM,Follow-up Visit,15,Postop,Private,Completed
+10358,745113,Culver City,Podiatry,18878,1-4-22 12:45 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10359,745113,Culver City,Podiatry,11726,1-4-22 1:15 PM,Follow-up Visit,30,Wound care,Private,Completed
+10360,745113,Culver City,Podiatry,10816,1-4-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10361,745113,Culver City,Podiatry,10643,1-4-22 2:00 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10362,745113,Culver City,Podiatry,15279,1-4-22 2:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10363,745113,Culver City,Podiatry,17192,1-4-22 2:45 PM,New Patient,30,Wound,Private,Completed
+10364,745113,Culver City,Podiatry,12836,1-4-22 3:15 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10365,745113,Culver City,Podiatry,18241,1-5-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10366,745113,Culver City,Podiatry,12065,1-5-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10367,745113,Culver City,Podiatry,13730,1-5-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10368,745113,Culver City,Podiatry,19880,1-5-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10369,745113,Culver City,Podiatry,19113,1-5-22 1:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10370,745113,Culver City,Podiatry,17252,1-5-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10371,745113,Culver City,Podiatry,10603,1-5-22 2:30 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10372,745113,Culver City,Podiatry,13720,1-5-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10373,745113,Culver City,Podiatry,12358,1-5-22 3:00 PM,New Patient,30,Wound,Private,Completed
+10374,745113,Culver City,Podiatry,18631,1-6-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10375,745113,Culver City,Podiatry,17719,1-6-22 8:30 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10376,745113,Culver City,Podiatry,19576,1-6-22 8:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10377,745113,Culver City,Podiatry,19697,1-6-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10378,745113,Culver City,Podiatry,10613,1-6-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10379,745113,Culver City,Podiatry,12079,1-6-22 10:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10380,745113,Culver City,Podiatry,18936,1-6-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10381,745113,Culver City,Podiatry,13535,1-6-22 12:30 PM,Follow-up Visit,30,Postop,Private,Rescheduled
+10382,745113,Culver City,Podiatry,17486,1-6-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10383,745113,Culver City,Podiatry,14787,1-6-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10384,745113,Culver City,Podiatry,18469,1-6-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10385,745113,Culver City,Podiatry,14489,1-6-22 1:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10386,745113,Culver City,Podiatry,19306,1-6-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10387,745113,Culver City,Podiatry,14780,1-6-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10388,745113,Culver City,Podiatry,11262,1-6-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10389,745113,Culver City,Podiatry,18013,1-7-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10390,745113,Culver City,Podiatry,18560,1-7-22 8:45 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10391,745113,Culver City,Podiatry,13264,1-7-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10392,745113,Culver City,Podiatry,12998,1-7-22 9:15 AM,Follow-up Visit,30,Postop,Medicare,Completed
+10393,745113,Culver City,Podiatry,16395,1-7-22 9:45 AM,Follow-up Visit,30,Wound care,Private,Completed
+10394,745113,Culver City,Podiatry,11552,1-7-22 10:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10395,745113,Culver City,Podiatry,13583,1-7-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10396,745113,Culver City,Podiatry,15883,1-7-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+10397,745113,Culver City,Podiatry,17437,1-7-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+10398,745113,Culver City,Podiatry,17491,1-7-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10399,745113,Culver City,Podiatry,13022,1-7-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10400,745113,Culver City,Podiatry,19283,1-7-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10401,745113,Culver City,Podiatry,19658,1-7-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10402,745113,Culver City,Podiatry,17953,1-7-22 1:30 PM,Follow-up Visit,30,Postop,Private,Completed
+10403,745113,Culver City,Podiatry,15940,1-7-22 2:30 PM,New Patient,30,Wound,Cash pay,No-Show
+10404,745113,Culver City,Podiatry,11887,1-10-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10405,745113,Culver City,Podiatry,18953,1-10-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10406,745113,Culver City,Podiatry,17118,1-10-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10407,745113,Culver City,Podiatry,12594,1-10-22 9:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10408,745113,Culver City,Podiatry,10302,1-10-22 9:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10409,745113,Culver City,Podiatry,15145,1-10-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10410,745113,Culver City,Podiatry,16240,1-10-22 11:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10411,745113,Culver City,Podiatry,16755,1-10-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10412,745113,Culver City,Podiatry,17430,1-10-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10413,745113,Culver City,Podiatry,16657,1-10-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10414,745113,Culver City,Podiatry,11649,1-10-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10415,745113,Culver City,Podiatry,16799,1-10-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10416,745113,Culver City,Podiatry,16423,1-10-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10417,745113,Culver City,Podiatry,16450,1-10-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10418,745113,Culver City,Podiatry,11492,1-10-22 2:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10419,745113,Culver City,Podiatry,15763,1-10-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10420,745113,Culver City,Podiatry,13627,1-10-22 3:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10421,745113,Culver City,Podiatry,14729,1-10-22 3:15 PM,Follow-up Visit,15,Postop,Medicare,Completed
+10422,745113,Culver City,Podiatry,11338,1-10-22 3:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10423,745113,Culver City,Podiatry,16537,1-11-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10424,745113,Culver City,Podiatry,13768,1-11-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10425,745113,Culver City,Podiatry,14327,1-11-22 9:00 AM,New Patient,30,Wound,Medicare,Completed
+10426,745113,Culver City,Podiatry,19737,1-11-22 9:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10427,745113,Culver City,Podiatry,19765,1-11-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+10428,745113,Culver City,Podiatry,16122,1-11-22 10:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10429,745113,Culver City,Podiatry,16526,1-11-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10430,745113,Culver City,Podiatry,19168,1-11-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10431,745113,Culver City,Podiatry,12555,1-11-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10432,745113,Culver City,Podiatry,12275,1-11-22 11:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10433,745113,Culver City,Podiatry,13775,1-11-22 11:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10434,745113,Culver City,Podiatry,12758,1-11-22 12:30 PM,Follow-up Visit,15,Postop,Private,Completed
+10435,745113,Culver City,Podiatry,11920,1-11-22 12:45 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10436,745113,Culver City,Podiatry,18823,1-11-22 1:15 PM,Follow-up Visit,30,Wound care,Private,Completed
+10437,745113,Culver City,Podiatry,16573,1-11-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10438,745113,Culver City,Podiatry,10605,1-11-22 2:00 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10439,745113,Culver City,Podiatry,17588,1-11-22 2:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10440,745113,Culver City,Podiatry,17155,1-11-22 2:45 PM,New Patient,30,Wound,Private,Completed
+10441,745113,Culver City,Podiatry,12994,1-11-22 3:15 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10442,745113,Culver City,Podiatry,13105,1-12-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10443,745113,Culver City,Podiatry,19311,1-12-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10444,745113,Culver City,Podiatry,12916,1-12-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10445,745113,Culver City,Podiatry,19585,1-12-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10446,745113,Culver City,Podiatry,11234,1-12-22 1:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10447,745113,Culver City,Podiatry,16940,1-12-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10448,745113,Culver City,Podiatry,17100,1-12-22 2:30 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10449,745113,Culver City,Podiatry,18549,1-12-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10450,745113,Culver City,Podiatry,10253,1-12-22 3:00 PM,New Patient,30,Wound,Private,Completed
+10451,745113,Culver City,Podiatry,14279,1-13-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10452,745113,Culver City,Podiatry,19208,1-13-22 8:30 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10453,745113,Culver City,Podiatry,16884,1-13-22 8:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10454,745113,Culver City,Podiatry,11996,1-13-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10455,745113,Culver City,Podiatry,19760,1-13-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10456,745113,Culver City,Podiatry,18751,1-13-22 10:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10457,745113,Culver City,Podiatry,15906,1-13-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10458,745113,Culver City,Podiatry,10971,1-13-22 12:30 PM,Follow-up Visit,30,Postop,Private,Rescheduled
+10459,745113,Culver City,Podiatry,18616,1-13-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10460,745113,Culver City,Podiatry,12842,1-13-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10461,745113,Culver City,Podiatry,11740,1-13-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10462,745113,Culver City,Podiatry,11902,1-13-22 1:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10463,745113,Culver City,Podiatry,11765,1-13-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10464,745113,Culver City,Podiatry,16558,1-13-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10465,745113,Culver City,Podiatry,12986,1-13-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10466,745113,Culver City,Podiatry,14120,1-14-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10467,745113,Culver City,Podiatry,17399,1-14-22 8:45 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10468,745113,Culver City,Podiatry,16724,1-14-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10469,745113,Culver City,Podiatry,17515,1-14-22 9:15 AM,Follow-up Visit,30,Postop,Medicare,Completed
+10470,745113,Culver City,Podiatry,13984,1-14-22 9:45 AM,Follow-up Visit,30,Wound care,Private,Completed
+10471,745113,Culver City,Podiatry,19059,1-14-22 10:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10472,745113,Culver City,Podiatry,15092,1-14-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10473,745113,Culver City,Podiatry,10293,1-14-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+10474,745113,Culver City,Podiatry,19599,1-14-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+10475,745113,Culver City,Podiatry,12810,1-14-22 11:30 AM,Follow-up Visit,30,Wound care,Cash pay,No-Show
+10476,745113,Culver City,Podiatry,15302,1-14-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10477,745113,Culver City,Podiatry,18450,1-14-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10478,745113,Culver City,Podiatry,11695,1-14-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10479,745113,Culver City,Podiatry,19152,1-14-22 1:30 PM,Follow-up Visit,30,Postop,Private,Completed
+10480,745113,Culver City,Podiatry,13775,1-14-22 2:30 PM,New Patient,30,Nail fungus,Medicare,Completed
+10481,745113,Culver City,Podiatry,19891,1-18-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,No-Show
+10482,745113,Culver City,Podiatry,16452,1-18-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10483,745113,Culver City,Podiatry,13389,1-18-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10484,745113,Culver City,Podiatry,15147,1-18-22 9:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10485,745113,Culver City,Podiatry,14239,1-18-22 9:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10486,745113,Culver City,Podiatry,18247,1-18-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10487,745113,Culver City,Podiatry,10069,1-18-22 11:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10488,745113,Culver City,Podiatry,10762,1-18-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10489,745113,Culver City,Podiatry,16546,1-18-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10490,745113,Culver City,Podiatry,16350,1-18-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10491,745113,Culver City,Podiatry,10847,1-18-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10492,745113,Culver City,Podiatry,11290,1-18-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10493,745113,Culver City,Podiatry,12540,1-18-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10494,745113,Culver City,Podiatry,10973,1-18-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10495,745113,Culver City,Podiatry,10303,1-18-22 2:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10496,745113,Culver City,Podiatry,10848,1-18-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10497,745113,Culver City,Podiatry,18044,1-18-22 3:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10498,745113,Culver City,Podiatry,17384,1-18-22 3:15 PM,Follow-up Visit,15,Postop,Medicare,Completed
+10499,745113,Culver City,Podiatry,10294,1-18-22 3:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10500,745113,Culver City,Podiatry,15252,1-19-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10501,745113,Culver City,Podiatry,17774,1-19-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10502,745113,Culver City,Podiatry,17749,1-19-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10503,745113,Culver City,Podiatry,15722,1-19-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10504,745113,Culver City,Podiatry,12521,1-19-22 1:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10505,745113,Culver City,Podiatry,10856,1-19-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10506,745113,Culver City,Podiatry,18772,1-19-22 2:30 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10507,745113,Culver City,Podiatry,11161,1-19-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10508,745113,Culver City,Podiatry,16036,1-19-22 3:00 PM,New Patient,30,Wound,Private,Completed
+10509,745113,Culver City,Podiatry,17601,1-20-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10510,745113,Culver City,Podiatry,11757,1-20-22 8:30 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10511,745113,Culver City,Podiatry,19221,1-20-22 8:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10512,745113,Culver City,Podiatry,10541,1-20-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10513,745113,Culver City,Podiatry,14293,1-20-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10514,745113,Culver City,Podiatry,15466,1-20-22 10:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10515,745113,Culver City,Podiatry,14215,1-20-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10516,745113,Culver City,Podiatry,13508,1-20-22 12:30 PM,Follow-up Visit,30,Postop,Private,Rescheduled
+10517,745113,Culver City,Podiatry,14628,1-20-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10518,745113,Culver City,Podiatry,17782,1-20-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10519,745113,Culver City,Podiatry,14464,1-20-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10520,745113,Culver City,Podiatry,15948,1-20-22 1:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10521,745113,Culver City,Podiatry,10109,1-20-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10522,745113,Culver City,Podiatry,19409,1-20-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10523,745113,Culver City,Podiatry,15550,1-20-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10524,745113,Culver City,Podiatry,16897,1-21-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10525,745113,Culver City,Podiatry,12451,1-21-22 8:45 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10526,745113,Culver City,Podiatry,12100,1-21-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10527,745113,Culver City,Podiatry,15467,1-21-22 9:15 AM,Follow-up Visit,30,Postop,Medicare,Completed
+10528,745113,Culver City,Podiatry,14673,1-21-22 9:45 AM,Follow-up Visit,30,Wound care,Private,Completed
+10529,745113,Culver City,Podiatry,14883,1-21-22 10:15 AM,Follow-up Visit,15,Routine foot care,Cash pay,No-Show
+10530,745113,Culver City,Podiatry,18278,1-21-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10531,745113,Culver City,Podiatry,15569,1-21-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+10532,745113,Culver City,Podiatry,17192,1-21-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+10533,745113,Culver City,Podiatry,18058,1-21-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10534,745113,Culver City,Podiatry,18326,1-21-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10535,745113,Culver City,Podiatry,16651,1-21-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10536,745113,Culver City,Podiatry,12993,1-21-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10537,745113,Culver City,Podiatry,10338,1-21-22 1:30 PM,Follow-up Visit,30,Postop,Private,Completed
+10538,745113,Culver City,Podiatry,18922,1-21-22 2:30 PM,New Patient,30,Wound,Medicare,No-Show
+10539,745113,Culver City,Podiatry,14212,1-24-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Rescheduled
+10540,745113,Culver City,Podiatry,10199,1-24-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10541,745113,Culver City,Podiatry,10892,1-24-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10542,745113,Culver City,Podiatry,13439,1-24-22 9:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10543,745113,Culver City,Podiatry,13768,1-24-22 9:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10544,745113,Culver City,Podiatry,14501,1-24-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10545,745113,Culver City,Podiatry,13611,1-24-22 11:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10546,745113,Culver City,Podiatry,16587,1-24-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10547,745113,Culver City,Podiatry,16261,1-24-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10548,745113,Culver City,Podiatry,15193,1-24-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10549,745113,Culver City,Podiatry,19320,1-24-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10550,745113,Culver City,Podiatry,14104,1-24-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10551,745113,Culver City,Podiatry,13160,1-24-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10552,745113,Culver City,Podiatry,14153,1-24-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10553,745113,Culver City,Podiatry,11442,1-24-22 2:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10554,745113,Culver City,Podiatry,15154,1-24-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10555,745113,Culver City,Podiatry,10963,1-24-22 3:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10556,745113,Culver City,Podiatry,17700,1-24-22 3:15 PM,Follow-up Visit,15,Postop,Medicare,Completed
+10557,745113,Culver City,Podiatry,15699,1-24-22 3:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10558,745113,Culver City,Podiatry,10802,1-25-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10559,745113,Culver City,Podiatry,13228,1-25-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10560,745113,Culver City,Podiatry,12775,1-25-22 9:00 AM,New Patient,30,Wound,Medicare,Completed
+10561,745113,Culver City,Podiatry,14774,1-25-22 9:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10562,745113,Culver City,Podiatry,10976,1-25-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+10563,745113,Culver City,Podiatry,13117,1-25-22 10:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10564,745113,Culver City,Podiatry,11986,1-25-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10565,745113,Culver City,Podiatry,15764,1-25-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10566,745113,Culver City,Podiatry,11978,1-25-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10567,745113,Culver City,Podiatry,14415,1-25-22 11:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10568,745113,Culver City,Podiatry,14255,1-25-22 11:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10569,745113,Culver City,Podiatry,12844,1-25-22 12:30 PM,Follow-up Visit,15,Postop,Private,Completed
+10570,745113,Culver City,Podiatry,14229,1-25-22 12:45 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10571,745113,Culver City,Podiatry,12936,1-25-22 1:15 PM,Follow-up Visit,30,Wound care,Private,Completed
+10572,745113,Culver City,Podiatry,19335,1-25-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10573,745113,Culver City,Podiatry,17177,1-25-22 2:00 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10574,745113,Culver City,Podiatry,11501,1-25-22 2:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10575,745113,Culver City,Podiatry,15763,1-25-22 2:45 PM,New Patient,30,Wound,Private,Completed
+10576,745113,Culver City,Podiatry,19688,1-25-22 3:15 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10577,745113,Culver City,Podiatry,12397,1-26-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10578,745113,Culver City,Podiatry,12086,1-26-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10579,745113,Culver City,Podiatry,18329,1-26-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10580,745113,Culver City,Podiatry,14170,1-26-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10581,745113,Culver City,Podiatry,14074,1-26-22 1:30 PM,Follow-up Visit,30,Wound care,Private,Completed
+10582,745113,Culver City,Podiatry,19811,1-26-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10583,745113,Culver City,Podiatry,17441,1-26-22 2:30 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10584,745113,Culver City,Podiatry,14362,1-26-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10585,745113,Culver City,Podiatry,11356,1-26-22 3:00 PM,New Patient,30,Wound,Private,Completed
+10586,745113,Culver City,Podiatry,13438,1-27-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10587,745113,Culver City,Podiatry,19464,1-27-22 8:30 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10588,745113,Culver City,Podiatry,14526,1-27-22 8:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10589,745113,Culver City,Podiatry,14742,1-27-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10590,745113,Culver City,Podiatry,13199,1-27-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10591,745113,Culver City,Podiatry,19349,1-27-22 10:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10592,745113,Culver City,Podiatry,10749,1-27-22 11:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10593,745113,Culver City,Podiatry,19943,1-27-22 12:30 PM,Follow-up Visit,30,Postop,Private,Rescheduled
+10594,745113,Culver City,Podiatry,17864,1-27-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10595,745113,Culver City,Podiatry,19830,1-27-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10596,745113,Culver City,Podiatry,14308,1-27-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10597,745113,Culver City,Podiatry,13241,1-27-22 1:45 PM,Follow-up Visit,15,Routine foot care,Private,Completed
+10598,745113,Culver City,Podiatry,15747,1-27-22 2:00 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10599,745113,Culver City,Podiatry,18893,1-27-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10600,745113,Culver City,Podiatry,14876,1-27-22 3:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10601,745113,Culver City,Podiatry,11735,1-28-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10602,745113,Culver City,Podiatry,13705,1-28-22 8:45 AM,Follow-up Visit,15,Routine foot care,Private,Completed
+10603,745113,Culver City,Podiatry,13510,1-28-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10604,745113,Culver City,Podiatry,10283,1-28-22 9:15 AM,Follow-up Visit,30,Postop,Medicare,Completed
+10605,745113,Culver City,Podiatry,17726,1-28-22 9:45 AM,Follow-up Visit,30,Wound care,Private,Completed
+10606,745113,Culver City,Podiatry,16510,1-28-22 10:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10607,745113,Culver City,Podiatry,13216,1-28-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10608,745113,Culver City,Podiatry,18842,1-28-22 10:45 AM,Follow-up Visit,15,Routine foot care,Cash pay,Cancelled
+10609,745113,Culver City,Podiatry,16159,1-28-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+10610,745113,Culver City,Podiatry,12189,1-28-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10611,745113,Culver City,Podiatry,12346,1-28-22 12:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10612,745113,Culver City,Podiatry,14722,1-28-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10613,745113,Culver City,Podiatry,18540,1-28-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10614,745113,Culver City,Podiatry,19878,1-28-22 1:30 PM,Follow-up Visit,30,Postop,Private,Completed
+10615,745113,Culver City,Podiatry,19713,1-28-22 2:30 PM,New Patient,30,Wound,Private,Completed
+10616,745113,Culver City,Podiatry,18408,1-31-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Cancelled
+10617,745113,Culver City,Podiatry,15143,1-31-22 8:30 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+10618,745113,Culver City,Podiatry,10477,1-31-22 9:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10619,745113,Culver City,Podiatry,15549,1-31-22 9:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10620,745113,Culver City,Podiatry,16439,1-31-22 9:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10621,745113,Culver City,Podiatry,15823,1-31-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10622,745113,Culver City,Podiatry,16656,1-31-22 11:00 AM,Follow-up Visit,30,Wound care,Private,Completed
+10623,745113,Culver City,Podiatry,19448,1-31-22 11:30 AM,Follow-up Visit,30,Wound care,Private,Completed
+10624,745113,Culver City,Podiatry,15459,1-31-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+10625,745113,Culver City,Podiatry,13048,1-31-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10626,745113,Culver City,Podiatry,19753,1-31-22 1:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10627,745113,Culver City,Podiatry,19458,1-31-22 1:15 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10628,745113,Culver City,Podiatry,13851,1-31-22 1:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10629,745113,Culver City,Podiatry,17668,1-31-22 1:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10630,745113,Culver City,Podiatry,12482,1-31-22 2:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10631,745113,Culver City,Podiatry,11323,1-31-22 2:30 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+10632,745113,Culver City,Podiatry,10880,1-31-22 3:00 PM,Follow-up Visit,30,Wound care,Private,Completed
+10633,745113,Culver City,Podiatry,19789,1-31-22 3:15 PM,Follow-up Visit,15,Postop,Medicare,Completed
+10634,745113,Culver City,Podiatry,18676,1-31-22 3:30 PM,Follow-up Visit,30,Wound care,Medicare,No-Show
+10635,813668,Santa Monica,Podiatry,14436,1-3-22 8:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10636,813668,Santa Monica,Podiatry,15732,1-3-22 8:30 AM,New Patient,30,Surgical consult,Private,Completed
+10637,813668,Santa Monica,Podiatry,12993,1-3-22 9:00 AM,Follow-up Visit,15,Plantar warts,Private,Completed
+10638,813668,Santa Monica,Podiatry,19842,1-3-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10639,813668,Santa Monica,Podiatry,19641,1-3-22 9:30 AM,New Patient,30,Flat feet,Private,Completed
+10640,813668,Santa Monica,Podiatry,18190,1-3-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10641,813668,Santa Monica,Podiatry,15194,1-3-22 10:15 AM,Follow-up Visit,15,Rash,Private,Completed
+10642,813668,Santa Monica,Podiatry,15625,1-3-22 10:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10643,813668,Santa Monica,Podiatry,19896,1-3-22 10:45 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10644,813668,Santa Monica,Podiatry,14980,1-3-22 11:00 AM,Procedure,60,Ingrown toenail,Cash pay,Completed
+10645,813668,Santa Monica,Podiatry,15447,1-3-22 12:30 PM,New Patient,30,Bunion,Private,Completed
+10646,813668,Santa Monica,Podiatry,11521,1-3-22 1:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10647,813668,Santa Monica,Podiatry,12041,1-3-22 1:15 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10648,813668,Santa Monica,Podiatry,17731,1-3-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10649,813668,Santa Monica,Podiatry,12280,1-3-22 2:15 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10650,813668,Santa Monica,Podiatry,14033,1-3-22 2:30 PM,New Patient,30,Foot pain,Private,Completed
+10651,813668,Santa Monica,Podiatry,15006,1-3-22 3:00 PM,New Patient,30,Sports injury,Private,Completed
+10652,813668,Santa Monica,Podiatry,18716,1-3-22 3:30 PM,New Patient,30,Abnormal gait,Private,Rescheduled
+10653,813668,Santa Monica,Podiatry,13096,1-4-22 8:00 AM,Procedure,60,Ingrown toenail,Private,No-Show
+10654,813668,Santa Monica,Podiatry,18416,1-4-22 9:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10655,813668,Santa Monica,Podiatry,15903,1-4-22 10:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10656,813668,Santa Monica,Podiatry,16743,1-4-22 11:30 AM,New Patient,30,Flat feet,Private,Completed
+10657,813668,Santa Monica,Podiatry,18680,1-4-22 12:30 PM,New Patient,30,Rash,Private,Completed
+10658,813668,Santa Monica,Podiatry,14996,1-4-22 1:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10659,813668,Santa Monica,Podiatry,11178,1-4-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10660,813668,Santa Monica,Podiatry,10536,1-4-22 1:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10661,813668,Santa Monica,Podiatry,15643,1-4-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10662,813668,Santa Monica,Podiatry,14682,1-4-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10663,813668,Santa Monica,Podiatry,19590,1-4-22 2:15 PM,New Patient,30,Surgical consult,Private,Completed
+10664,813668,Santa Monica,Podiatry,14923,1-4-22 3:00 PM,Follow-up Visit,15,Bunion,Private,Completed
+10665,813668,Santa Monica,Podiatry,14219,1-4-22 3:30 PM,New Patient,30,Heel pain,Private,Completed
+10666,813668,Santa Monica,Podiatry,12286,1-5-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10667,813668,Santa Monica,Podiatry,10289,1-5-22 8:30 AM,Follow-up Visit,15,Routine foot care,Cash pay,Cancelled
+10668,813668,Santa Monica,Podiatry,12379,1-5-22 9:00 AM,Follow-up Visit,15,Rash,Private,Completed
+10669,813668,Santa Monica,Podiatry,17511,1-5-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10670,813668,Santa Monica,Podiatry,11617,1-5-22 9:30 AM,New Patient,30,Surgical consult,Private,Completed
+10671,813668,Santa Monica,Podiatry,18286,1-5-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10672,813668,Santa Monica,Podiatry,12439,1-5-22 10:30 AM,New Patient,30,Toe walking,Private,Completed
+10673,813668,Santa Monica,Podiatry,12235,1-5-22 11:00 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10674,813668,Santa Monica,Podiatry,17066,1-5-22 11:30 AM,New Patient,30,Foot pain,Private,Completed
+10675,813668,Santa Monica,Podiatry,10998,1-5-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10676,813668,Santa Monica,Podiatry,13100,1-5-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10677,813668,Santa Monica,Podiatry,16272,1-5-22 1:00 PM,New Patient,30,Flat feet,Private,Completed
+10678,813668,Santa Monica,Podiatry,17870,1-5-22 1:30 PM,New Patient,30,Surgical consult,Private,Completed
+10679,813668,Santa Monica,Podiatry,15884,1-5-22 2:00 PM,New Patient,30,Leg deformity,Private,Completed
+10680,813668,Santa Monica,Podiatry,18871,1-5-22 2:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10681,813668,Santa Monica,Podiatry,17608,1-5-22 3:00 PM,Procedure,60,Ingrown toenail,Private,No-Show
+10682,813668,Santa Monica,Podiatry,13008,1-6-22 8:00 AM,Follow-up Visit,15,Toe walking,Private,Rescheduled
+10683,813668,Santa Monica,Podiatry,18917,1-6-22 8:15 AM,Follow-up Visit,15,Flat feet,Private,Completed
+10684,813668,Santa Monica,Podiatry,12967,1-6-22 8:30 AM,New Patient,30,Sports injury,Private,Completed
+10685,813668,Santa Monica,Podiatry,16511,1-6-22 9:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10686,813668,Santa Monica,Podiatry,18113,1-6-22 9:15 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10687,813668,Santa Monica,Podiatry,11913,1-6-22 10:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10688,813668,Santa Monica,Podiatry,16318,1-6-22 10:15 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10689,813668,Santa Monica,Podiatry,16814,1-6-22 10:30 AM,Follow-up Visit,15,Sports injury,Private,Completed
+10690,813668,Santa Monica,Podiatry,18124,1-6-22 10:45 AM,Follow-up Visit,15,Leg pain,Private,Completed
+10691,813668,Santa Monica,Podiatry,14072,1-6-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10692,813668,Santa Monica,Podiatry,11439,1-6-22 11:30 AM,New Patient,30,Leg deformity,Private,Completed
+10693,813668,Santa Monica,Podiatry,19195,1-6-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Rescheduled
+10694,813668,Santa Monica,Podiatry,19700,1-6-22 12:45 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10695,813668,Santa Monica,Podiatry,16482,1-6-22 1:00 PM,Follow-up Visit,15,Rash,Private,Completed
+10696,813668,Santa Monica,Podiatry,17831,1-6-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,No-Show
+10697,813668,Santa Monica,Podiatry,10668,1-6-22 1:30 PM,New Patient,30,Foot infection,Private,Completed
+10698,813668,Santa Monica,Podiatry,17537,1-6-22 2:00 PM,New Patient,30,Hammertoes,Private,Completed
+10699,813668,Santa Monica,Podiatry,11995,1-6-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+10700,813668,Santa Monica,Podiatry,13909,1-7-22 12:30 PM,New Patient,30,Arch pain,Private,Completed
+10701,813668,Santa Monica,Podiatry,12251,1-7-22 1:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,No-Show
+10702,813668,Santa Monica,Podiatry,12573,1-7-22 1:15 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10703,813668,Santa Monica,Podiatry,17903,1-7-22 1:30 PM,New Patient,30,Heel pain,Private,Completed
+10704,813668,Santa Monica,Podiatry,12877,1-7-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+10705,813668,Santa Monica,Podiatry,12307,1-7-22 2:30 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10706,813668,Santa Monica,Podiatry,15034,1-7-22 2:45 PM,Follow-up Visit,15,Foot infection,Private,Completed
+10707,813668,Santa Monica,Podiatry,13245,1-7-22 3:00 PM,Follow-up Visit,15,Toe pain,Private,Completed
+10708,813668,Santa Monica,Podiatry,14163,1-7-22 3:15 PM,Follow-up Visit,15,Bunion,Private,Completed
+10709,813668,Santa Monica,Podiatry,18115,1-7-22 3:30 PM,New Patient,30,Abnormal gait,Private,Completed
+10710,813668,Santa Monica,Podiatry,16968,1-10-22 8:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10711,813668,Santa Monica,Podiatry,10816,1-10-22 8:30 AM,New Patient,30,Surgical consult,Private,Completed
+10712,813668,Santa Monica,Podiatry,15457,1-10-22 9:00 AM,Follow-up Visit,15,Plantar warts,Private,Completed
+10713,813668,Santa Monica,Podiatry,11748,1-10-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10714,813668,Santa Monica,Podiatry,17799,1-10-22 9:30 AM,New Patient,30,Flat feet,Private,Completed
+10715,813668,Santa Monica,Podiatry,11755,1-10-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10716,813668,Santa Monica,Podiatry,17527,1-10-22 10:15 AM,Follow-up Visit,15,Rash,Private,Completed
+10717,813668,Santa Monica,Podiatry,14383,1-10-22 10:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10718,813668,Santa Monica,Podiatry,13957,1-10-22 10:45 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10719,813668,Santa Monica,Podiatry,12845,1-10-22 11:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10720,813668,Santa Monica,Podiatry,14598,1-10-22 12:30 PM,New Patient,30,Bunion,Private,Completed
+10721,813668,Santa Monica,Podiatry,10447,1-10-22 1:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10722,813668,Santa Monica,Podiatry,12759,1-10-22 1:15 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10723,813668,Santa Monica,Podiatry,15407,1-10-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10724,813668,Santa Monica,Podiatry,12946,1-10-22 2:15 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10725,813668,Santa Monica,Podiatry,11699,1-10-22 2:30 PM,New Patient,30,Foot pain,Private,Completed
+10726,813668,Santa Monica,Podiatry,14118,1-10-22 3:00 PM,New Patient,30,Sports injury,Private,Completed
+10727,813668,Santa Monica,Podiatry,15088,1-10-22 3:30 PM,New Patient,30,Abnormal gait,Private,Rescheduled
+10728,813668,Santa Monica,Podiatry,15898,1-11-22 8:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10729,813668,Santa Monica,Podiatry,15261,1-11-22 9:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10730,813668,Santa Monica,Podiatry,15072,1-11-22 10:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10731,813668,Santa Monica,Podiatry,16911,1-11-22 11:30 AM,New Patient,30,Flat feet,Private,Completed
+10732,813668,Santa Monica,Podiatry,11312,1-11-22 12:30 PM,New Patient,30,Rash,Private,Completed
+10733,813668,Santa Monica,Podiatry,18588,1-11-22 1:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10734,813668,Santa Monica,Podiatry,18128,1-11-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10735,813668,Santa Monica,Podiatry,16467,1-11-22 1:30 PM,Follow-up Visit,15,Heel pain,Cash pay,Completed
+10736,813668,Santa Monica,Podiatry,11026,1-11-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10737,813668,Santa Monica,Podiatry,16652,1-11-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10738,813668,Santa Monica,Podiatry,18333,1-11-22 2:15 PM,New Patient,30,Surgical consult,Private,Completed
+10739,813668,Santa Monica,Podiatry,13423,1-11-22 3:00 PM,Follow-up Visit,15,Bunion,Private,Completed
+10740,813668,Santa Monica,Podiatry,14636,1-11-22 3:30 PM,New Patient,30,Heel pain,Private,Completed
+10741,813668,Santa Monica,Podiatry,13819,1-12-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10742,813668,Santa Monica,Podiatry,13484,1-12-22 8:30 AM,Follow-up Visit,15,Ingrown toenail,Private,Cancelled
+10743,813668,Santa Monica,Podiatry,13993,1-12-22 9:00 AM,Follow-up Visit,15,Rash,Private,Completed
+10744,813668,Santa Monica,Podiatry,18430,1-12-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10745,813668,Santa Monica,Podiatry,19878,1-12-22 9:30 AM,New Patient,30,Surgical consult,Private,Completed
+10746,813668,Santa Monica,Podiatry,16105,1-12-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10747,813668,Santa Monica,Podiatry,18246,1-12-22 10:30 AM,New Patient,30,Toe walking,Private,Completed
+10748,813668,Santa Monica,Podiatry,13937,1-12-22 11:00 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10749,813668,Santa Monica,Podiatry,11354,1-12-22 11:30 AM,New Patient,30,Foot pain,Private,Completed
+10750,813668,Santa Monica,Podiatry,14960,1-12-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10751,813668,Santa Monica,Podiatry,10071,1-12-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10752,813668,Santa Monica,Podiatry,12955,1-12-22 1:00 PM,New Patient,30,Flat feet,Private,Completed
+10753,813668,Santa Monica,Podiatry,15891,1-12-22 1:30 PM,New Patient,30,Surgical consult,Private,Completed
+10754,813668,Santa Monica,Podiatry,15435,1-12-22 2:00 PM,New Patient,30,Leg deformity,Private,Completed
+10755,813668,Santa Monica,Podiatry,18921,1-12-22 2:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10756,813668,Santa Monica,Podiatry,11210,1-12-22 3:00 PM,Procedure,60,Ingrown toenail,Cash pay,No-Show
+10757,813668,Santa Monica,Podiatry,13028,1-13-22 8:00 AM,Follow-up Visit,15,Toe walking,Private,Completed
+10758,813668,Santa Monica,Podiatry,19251,1-13-22 8:15 AM,Follow-up Visit,15,Flat feet,Private,Completed
+10759,813668,Santa Monica,Podiatry,18648,1-13-22 8:30 AM,New Patient,30,Sports injury,Private,Completed
+10760,813668,Santa Monica,Podiatry,15684,1-13-22 9:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10761,813668,Santa Monica,Podiatry,11627,1-13-22 9:15 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10762,813668,Santa Monica,Podiatry,17431,1-13-22 10:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10763,813668,Santa Monica,Podiatry,19065,1-13-22 10:15 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10764,813668,Santa Monica,Podiatry,11327,1-13-22 10:30 AM,Follow-up Visit,15,Sports injury,Private,Completed
+10765,813668,Santa Monica,Podiatry,11205,1-13-22 10:45 AM,Follow-up Visit,15,Leg pain,Private,Completed
+10766,813668,Santa Monica,Podiatry,10968,1-13-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10767,813668,Santa Monica,Podiatry,19082,1-13-22 11:30 AM,New Patient,30,Leg deformity,Private,Completed
+10768,813668,Santa Monica,Podiatry,15062,1-13-22 12:30 PM,Follow-up Visit,15,Plantar warts,Cash pay,Rescheduled
+10769,813668,Santa Monica,Podiatry,13394,1-13-22 12:45 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10770,813668,Santa Monica,Podiatry,18269,1-13-22 1:00 PM,Follow-up Visit,15,Rash,Private,Completed
+10771,813668,Santa Monica,Podiatry,11149,1-13-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,No-Show
+10772,813668,Santa Monica,Podiatry,17180,1-13-22 1:30 PM,New Patient,30,Foot infection,Private,Completed
+10773,813668,Santa Monica,Podiatry,16633,1-13-22 2:00 PM,New Patient,30,Hammertoes,Private,Completed
+10774,813668,Santa Monica,Podiatry,14580,1-13-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+10775,813668,Santa Monica,Podiatry,18561,1-14-22 8:00 AM,Follow-up Visit,15,Postop,Private,Completed
+10776,813668,Santa Monica,Podiatry,19167,1-14-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10777,813668,Santa Monica,Podiatry,10148,1-14-22 8:30 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10778,813668,Santa Monica,Podiatry,11167,1-14-22 8:45 AM,Follow-up Visit,15,Rash,Private,No-Show
+10779,813668,Santa Monica,Podiatry,17591,1-14-22 9:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10780,813668,Santa Monica,Podiatry,15563,1-14-22 9:30 AM,New Patient,30,Sports injury,Private,Completed
+10781,813668,Santa Monica,Podiatry,14662,1-14-22 10:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10782,813668,Santa Monica,Podiatry,13299,1-14-22 10:15 AM,New Patient,30,Surgical consult,Private,Completed
+10783,813668,Santa Monica,Podiatry,10530,1-14-22 11:00 AM,New Patient,30,Flat feet,Cash pay,Completed
+10784,813668,Santa Monica,Podiatry,13837,1-14-22 11:15 AM,New Patient,30,Heel pain,Private,Completed
+10785,813668,Santa Monica,Podiatry,18655,1-14-22 12:30 PM,New Patient,30,Arch pain,Private,Completed
+10786,813668,Santa Monica,Podiatry,13665,1-14-22 1:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10787,813668,Santa Monica,Podiatry,17224,1-14-22 1:15 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10788,813668,Santa Monica,Podiatry,13583,1-14-22 1:30 PM,New Patient,30,Heel pain,Private,Completed
+10789,813668,Santa Monica,Podiatry,17411,1-14-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+10790,813668,Santa Monica,Podiatry,15175,1-14-22 2:30 PM,Follow-up Visit,15,Flat feet,Private,No-Show
+10791,813668,Santa Monica,Podiatry,19007,1-14-22 2:45 PM,Follow-up Visit,15,Foot infection,Private,Completed
+10792,813668,Santa Monica,Podiatry,10212,1-14-22 3:00 PM,Follow-up Visit,15,Toe pain,Private,Completed
+10793,813668,Santa Monica,Podiatry,12717,1-14-22 3:15 PM,Follow-up Visit,15,Bunion,Private,Completed
+10794,813668,Santa Monica,Podiatry,14640,1-14-22 3:30 PM,New Patient,30,Abnormal gait,Private,Completed
+10795,813668,Santa Monica,Podiatry,17988,1-18-22 8:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10796,813668,Santa Monica,Podiatry,10950,1-18-22 8:30 AM,New Patient,30,Surgical consult,Private,Completed
+10797,813668,Santa Monica,Podiatry,12116,1-18-22 9:00 AM,Follow-up Visit,15,Plantar warts,Private,Completed
+10798,813668,Santa Monica,Podiatry,16454,1-18-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10799,813668,Santa Monica,Podiatry,11203,1-18-22 9:30 AM,New Patient,30,Flat feet,Private,Completed
+10800,813668,Santa Monica,Podiatry,16259,1-18-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10801,813668,Santa Monica,Podiatry,18897,1-18-22 10:15 AM,Follow-up Visit,15,Rash,Private,Completed
+10802,813668,Santa Monica,Podiatry,14457,1-18-22 10:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10803,813668,Santa Monica,Podiatry,14966,1-18-22 10:45 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10804,813668,Santa Monica,Podiatry,11132,1-18-22 11:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10805,813668,Santa Monica,Podiatry,19802,1-18-22 12:30 PM,New Patient,30,Bunion,Private,Completed
+10806,813668,Santa Monica,Podiatry,11548,1-18-22 1:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10807,813668,Santa Monica,Podiatry,14228,1-18-22 1:15 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10808,813668,Santa Monica,Podiatry,15317,1-18-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10809,813668,Santa Monica,Podiatry,11867,1-18-22 2:15 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10810,813668,Santa Monica,Podiatry,15606,1-18-22 2:30 PM,New Patient,30,Foot pain,Private,Completed
+10811,813668,Santa Monica,Podiatry,14751,1-18-22 3:00 PM,New Patient,30,Sports injury,Private,Completed
+10812,813668,Santa Monica,Podiatry,18814,1-18-22 3:30 PM,New Patient,30,Abnormal gait,Private,Rescheduled
+10813,813668,Santa Monica,Podiatry,15752,1-19-22 8:00 AM,Procedure,60,Ingrown toenail,Cash pay,Completed
+10814,813668,Santa Monica,Podiatry,17077,1-19-22 9:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10815,813668,Santa Monica,Podiatry,17256,1-19-22 10:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10816,813668,Santa Monica,Podiatry,17938,1-19-22 11:30 AM,New Patient,30,Flat feet,Private,Completed
+10817,813668,Santa Monica,Podiatry,16855,1-19-22 12:30 PM,New Patient,30,Rash,Private,Completed
+10818,813668,Santa Monica,Podiatry,13944,1-19-22 1:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10819,813668,Santa Monica,Podiatry,12195,1-19-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10820,813668,Santa Monica,Podiatry,12108,1-19-22 1:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10821,813668,Santa Monica,Podiatry,14510,1-19-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10822,813668,Santa Monica,Podiatry,19310,1-19-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10823,813668,Santa Monica,Podiatry,11306,1-19-22 2:15 PM,New Patient,30,Surgical consult,Private,Completed
+10824,813668,Santa Monica,Podiatry,10901,1-19-22 3:00 PM,Follow-up Visit,15,Bunion,Private,Completed
+10825,813668,Santa Monica,Podiatry,11544,1-19-22 3:30 PM,New Patient,30,Heel pain,Private,Completed
+10826,813668,Santa Monica,Podiatry,17230,1-20-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10827,813668,Santa Monica,Podiatry,11683,1-20-22 8:30 AM,Follow-up Visit,15,Ingrown toenail,Private,Cancelled
+10828,813668,Santa Monica,Podiatry,15521,1-20-22 9:00 AM,Follow-up Visit,15,Rash,Private,Completed
+10829,813668,Santa Monica,Podiatry,11523,1-20-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10830,813668,Santa Monica,Podiatry,10045,1-20-22 9:30 AM,New Patient,30,Surgical consult,Private,Completed
+10831,813668,Santa Monica,Podiatry,10304,1-20-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10832,813668,Santa Monica,Podiatry,14863,1-20-22 10:30 AM,New Patient,30,Toe walking,Private,Completed
+10833,813668,Santa Monica,Podiatry,12063,1-20-22 11:00 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10834,813668,Santa Monica,Podiatry,14438,1-20-22 11:30 AM,New Patient,30,Foot pain,Private,Completed
+10835,813668,Santa Monica,Podiatry,15118,1-20-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10836,813668,Santa Monica,Podiatry,13829,1-20-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10837,813668,Santa Monica,Podiatry,18238,1-20-22 1:00 PM,New Patient,30,Flat feet,Private,Completed
+10838,813668,Santa Monica,Podiatry,19032,1-20-22 1:30 PM,New Patient,30,Surgical consult,Private,Completed
+10839,813668,Santa Monica,Podiatry,14829,1-20-22 2:00 PM,New Patient,30,Leg deformity,Private,Completed
+10840,813668,Santa Monica,Podiatry,11017,1-20-22 2:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10841,813668,Santa Monica,Podiatry,18818,1-20-22 3:00 PM,Procedure,60,Ingrown toenail,Private,No-Show
+10842,813668,Santa Monica,Podiatry,18752,1-21-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Rescheduled
+10843,813668,Santa Monica,Podiatry,19509,1-21-22 12:45 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10844,813668,Santa Monica,Podiatry,12071,1-21-22 1:00 PM,Follow-up Visit,15,Rash,Private,Completed
+10845,813668,Santa Monica,Podiatry,13492,1-21-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,No-Show
+10846,813668,Santa Monica,Podiatry,18575,1-21-22 1:30 PM,New Patient,30,Foot infection,Private,Completed
+10847,813668,Santa Monica,Podiatry,17566,1-21-22 2:00 PM,New Patient,30,Hammertoes,Private,Completed
+10848,813668,Santa Monica,Podiatry,15184,1-21-22 3:00 PM,Procedure,60,Ingrown toenail,Cash pay,Completed
+10849,813668,Santa Monica,Podiatry,13376,1-24-22 8:00 AM,Follow-up Visit,15,Postop,Private,Completed
+10850,813668,Santa Monica,Podiatry,19427,1-24-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10851,813668,Santa Monica,Podiatry,16718,1-24-22 8:30 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10852,813668,Santa Monica,Podiatry,15651,1-24-22 8:45 AM,Follow-up Visit,15,Rash,Cash pay,No-Show
+10853,813668,Santa Monica,Podiatry,13222,1-24-22 9:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10854,813668,Santa Monica,Podiatry,10134,1-24-22 9:30 AM,New Patient,30,Sports injury,Private,Completed
+10855,813668,Santa Monica,Podiatry,16000,1-24-22 10:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10856,813668,Santa Monica,Podiatry,17693,1-24-22 10:15 AM,New Patient,30,Surgical consult,Private,Completed
+10857,813668,Santa Monica,Podiatry,12064,1-24-22 11:00 AM,New Patient,30,Flat feet,Private,Completed
+10858,813668,Santa Monica,Podiatry,13899,1-24-22 11:15 AM,New Patient,30,Heel pain,Private,Completed
+10859,813668,Santa Monica,Podiatry,18283,1-24-22 12:30 PM,New Patient,30,Arch pain,Private,Completed
+10860,813668,Santa Monica,Podiatry,15304,1-24-22 1:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10861,813668,Santa Monica,Podiatry,14404,1-24-22 1:15 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10862,813668,Santa Monica,Podiatry,12534,1-24-22 1:30 PM,New Patient,30,Heel pain,Private,Completed
+10863,813668,Santa Monica,Podiatry,19200,1-24-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+10864,813668,Santa Monica,Podiatry,12194,1-24-22 2:30 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10865,813668,Santa Monica,Podiatry,15641,1-24-22 2:45 PM,Follow-up Visit,15,Foot infection,Private,Completed
+10866,813668,Santa Monica,Podiatry,17439,1-24-22 3:00 PM,Follow-up Visit,15,Toe pain,Private,Completed
+10867,813668,Santa Monica,Podiatry,14733,1-24-22 3:15 PM,Follow-up Visit,15,Bunion,Private,Completed
+10868,813668,Santa Monica,Podiatry,19322,1-24-22 3:30 PM,New Patient,30,Abnormal gait,Private,Completed
+10869,813668,Santa Monica,Podiatry,10399,1-25-22 8:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10870,813668,Santa Monica,Podiatry,19813,1-25-22 8:30 AM,New Patient,30,Surgical consult,Private,Completed
+10871,813668,Santa Monica,Podiatry,19844,1-25-22 9:00 AM,Follow-up Visit,15,Plantar warts,Private,Completed
+10872,813668,Santa Monica,Podiatry,13551,1-25-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10873,813668,Santa Monica,Podiatry,15390,1-25-22 9:30 AM,New Patient,30,Flat feet,Private,Completed
+10874,813668,Santa Monica,Podiatry,10591,1-25-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10875,813668,Santa Monica,Podiatry,15647,1-25-22 10:15 AM,Follow-up Visit,15,Rash,Private,Completed
+10876,813668,Santa Monica,Podiatry,10724,1-25-22 10:30 AM,Follow-up Visit,15,Postop,Private,Completed
+10877,813668,Santa Monica,Podiatry,16283,1-25-22 10:45 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10878,813668,Santa Monica,Podiatry,13251,1-25-22 11:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10879,813668,Santa Monica,Podiatry,16682,1-25-22 12:30 PM,New Patient,30,Bunion,Private,Completed
+10880,813668,Santa Monica,Podiatry,18045,1-25-22 1:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10881,813668,Santa Monica,Podiatry,12813,1-25-22 1:15 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10882,813668,Santa Monica,Podiatry,14766,1-25-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10883,813668,Santa Monica,Podiatry,18682,1-25-22 2:15 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10884,813668,Santa Monica,Podiatry,12832,1-25-22 2:30 PM,New Patient,30,Foot pain,Private,Completed
+10885,813668,Santa Monica,Podiatry,11492,1-25-22 3:00 PM,New Patient,30,Sports injury,Private,Completed
+10886,813668,Santa Monica,Podiatry,10121,1-25-22 3:30 PM,New Patient,30,Abnormal gait,Private,Rescheduled
+10887,813668,Santa Monica,Podiatry,14271,1-26-22 8:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10888,813668,Santa Monica,Podiatry,16288,1-26-22 9:00 AM,Procedure,60,Ingrown toenail,Cash pay,Completed
+10889,813668,Santa Monica,Podiatry,13838,1-26-22 10:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10890,813668,Santa Monica,Podiatry,18261,1-26-22 11:30 AM,New Patient,30,Flat feet,Private,Completed
+10891,813668,Santa Monica,Podiatry,15853,1-26-22 12:30 PM,New Patient,30,Rash,Private,Completed
+10892,813668,Santa Monica,Podiatry,11590,1-26-22 1:00 PM,Follow-up Visit,15,Postop,Private,Completed
+10893,813668,Santa Monica,Podiatry,18736,1-26-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10894,813668,Santa Monica,Podiatry,10843,1-26-22 1:30 PM,Follow-up Visit,15,Heel pain,Cash pay,Completed
+10895,813668,Santa Monica,Podiatry,15434,1-26-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10896,813668,Santa Monica,Podiatry,11630,1-26-22 2:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10897,813668,Santa Monica,Podiatry,17275,1-26-22 2:15 PM,New Patient,30,Surgical consult,Private,Completed
+10898,813668,Santa Monica,Podiatry,13879,1-26-22 3:00 PM,Follow-up Visit,15,Bunion,Private,Completed
+10899,813668,Santa Monica,Podiatry,12620,1-26-22 3:30 PM,New Patient,30,Heel pain,Private,Completed
+10900,813668,Santa Monica,Podiatry,11001,1-27-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10901,813668,Santa Monica,Podiatry,16132,1-27-22 8:30 AM,Follow-up Visit,15,Ingrown toenail,Private,Cancelled
+10902,813668,Santa Monica,Podiatry,15494,1-27-22 9:00 AM,Follow-up Visit,15,Rash,Private,Completed
+10903,813668,Santa Monica,Podiatry,15832,1-27-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10904,813668,Santa Monica,Podiatry,12784,1-27-22 9:30 AM,New Patient,30,Surgical consult,Private,Completed
+10905,813668,Santa Monica,Podiatry,14375,1-27-22 10:00 AM,Follow-up Visit,30,Preop consult,Private,Completed
+10906,813668,Santa Monica,Podiatry,10230,1-27-22 10:30 AM,New Patient,30,Toe walking,Private,Completed
+10907,813668,Santa Monica,Podiatry,18362,1-27-22 11:00 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10908,813668,Santa Monica,Podiatry,13776,1-27-22 11:30 AM,New Patient,30,Foot pain,Private,Completed
+10909,813668,Santa Monica,Podiatry,11228,1-27-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+10910,813668,Santa Monica,Podiatry,13712,1-27-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10911,813668,Santa Monica,Podiatry,16768,1-27-22 1:00 PM,New Patient,30,Flat feet,Private,Completed
+10912,813668,Santa Monica,Podiatry,12655,1-27-22 1:30 PM,New Patient,30,Surgical consult,Private,Completed
+10913,813668,Santa Monica,Podiatry,19813,1-27-22 2:00 PM,New Patient,30,Leg deformity,Private,Completed
+10914,813668,Santa Monica,Podiatry,10094,1-27-22 2:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10915,813668,Santa Monica,Podiatry,12650,1-27-22 3:00 PM,Procedure,60,Ingrown toenail,Private,No-Show
+10916,813668,Santa Monica,Podiatry,10292,1-28-22 8:00 AM,Follow-up Visit,15,Toe walking,Private,Rescheduled
+10917,813668,Santa Monica,Podiatry,19428,1-28-22 8:15 AM,Follow-up Visit,15,Flat feet,Cash pay,Completed
+10918,813668,Santa Monica,Podiatry,16651,1-28-22 8:30 AM,New Patient,30,Sports injury,Private,Completed
+10919,813668,Santa Monica,Podiatry,15607,1-28-22 9:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10920,813668,Santa Monica,Podiatry,15734,1-28-22 9:15 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10921,813668,Santa Monica,Podiatry,14761,1-28-22 10:00 AM,Follow-up Visit,15,Heel pain,Private,Completed
+10922,813668,Santa Monica,Podiatry,10430,1-28-22 10:15 AM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10923,813668,Santa Monica,Podiatry,10267,1-28-22 10:30 AM,Follow-up Visit,15,Sports injury,Cash pay,Completed
+10924,813668,Santa Monica,Podiatry,17083,1-28-22 10:45 AM,Follow-up Visit,15,Leg pain,Private,Completed
+10925,813668,Santa Monica,Podiatry,15890,1-28-22 11:00 AM,New Patient,30,Surgical consult,Private,Completed
+10926,813668,Santa Monica,Podiatry,13892,1-28-22 11:30 AM,New Patient,30,Leg deformity,Private,Completed
+10927,813668,Santa Monica,Podiatry,15922,1-28-22 12:30 PM,Follow-up Visit,15,Plantar warts,Private,Rescheduled
+10928,813668,Santa Monica,Podiatry,15730,1-28-22 12:45 PM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10929,813668,Santa Monica,Podiatry,14615,1-28-22 1:00 PM,Follow-up Visit,15,Rash,Private,Completed
+10930,813668,Santa Monica,Podiatry,14767,1-28-22 1:15 PM,Follow-up Visit,15,Ingrown toenail,Private,No-Show
+10931,813668,Santa Monica,Podiatry,17833,1-28-22 1:30 PM,New Patient,30,Foot infection,Private,Completed
+10932,813668,Santa Monica,Podiatry,13480,1-28-22 2:00 PM,New Patient,30,Hammertoes,Private,Completed
+10933,813668,Santa Monica,Podiatry,15921,1-28-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+10934,813668,Santa Monica,Podiatry,19089,1-31-22 8:00 AM,Follow-up Visit,15,Postop,Private,Completed
+10935,813668,Santa Monica,Podiatry,17792,1-31-22 8:15 AM,Follow-up Visit,15,Postop,Private,Completed
+10936,813668,Santa Monica,Podiatry,12601,1-31-22 8:30 AM,Follow-up Visit,15,Ingrown toenail,Private,Completed
+10937,813668,Santa Monica,Podiatry,11734,1-31-22 8:45 AM,Follow-up Visit,15,Rash,Cash pay,No-Show
+10938,813668,Santa Monica,Podiatry,11228,1-31-22 9:00 AM,New Patient,30,Ankle sprain,Private,Completed
+10939,813668,Santa Monica,Podiatry,10145,1-31-22 9:30 AM,New Patient,30,Sports injury,Private,Completed
+10940,813668,Santa Monica,Podiatry,14538,1-31-22 10:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+10941,813668,Santa Monica,Podiatry,17488,1-31-22 10:15 AM,New Patient,30,Surgical consult,Private,Completed
+10942,813668,Santa Monica,Podiatry,11676,1-31-22 11:00 AM,New Patient,30,Flat feet,Private,Completed
+10943,813668,Santa Monica,Podiatry,18219,1-31-22 11:15 AM,New Patient,30,Heel pain,Private,Completed
+10944,813668,Santa Monica,Podiatry,10710,1-31-22 12:30 PM,New Patient,30,Arch pain,Private,Completed
+10945,813668,Santa Monica,Podiatry,11715,1-31-22 1:00 PM,Follow-up Visit,15,Heel pain,Private,Completed
+10946,813668,Santa Monica,Podiatry,18098,1-31-22 1:15 PM,Follow-up Visit,15,Arch pain,Private,Completed
+10947,813668,Santa Monica,Podiatry,13922,1-31-22 1:30 PM,New Patient,30,Heel pain,Private,Completed
+10948,813668,Santa Monica,Podiatry,15603,1-31-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+10949,813668,Santa Monica,Podiatry,13186,1-31-22 2:30 PM,Follow-up Visit,15,Flat feet,Private,Completed
+10950,813668,Santa Monica,Podiatry,10940,1-31-22 2:45 PM,Follow-up Visit,15,Foot infection,Private,Completed
+10951,813668,Santa Monica,Podiatry,13546,1-31-22 3:00 PM,Follow-up Visit,15,Toe pain,Private,Completed
+10952,813668,Santa Monica,Podiatry,15934,1-31-22 3:15 PM,Follow-up Visit,15,Bunion,Private,Completed
+10953,813668,Santa Monica,Podiatry,14393,1-31-22 3:30 PM,New Patient,30,Abnormal gait,Private,Completed
+10954,696455,Brentwood,Podiatry,19478,1-3-22 8:15 AM,Follow-up Visit,15,Nail care,Private,Completed
+10955,696455,Brentwood,Podiatry,19921,1-3-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10956,696455,Brentwood,Podiatry,13567,1-3-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+10957,696455,Brentwood,Podiatry,12005,1-3-22 9:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+10958,696455,Brentwood,Podiatry,17894,1-3-22 10:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+10959,696455,Brentwood,Podiatry,14280,1-3-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10960,696455,Brentwood,Podiatry,18754,1-3-22 10:45 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+10961,696455,Brentwood,Podiatry,16096,1-3-22 11:00 AM,New Patient,30,Heel pain,Private,Completed
+10962,696455,Brentwood,Podiatry,13906,1-3-22 11:30 AM,Follow-up Visit,15,Injection,Private,Completed
+10963,696455,Brentwood,Podiatry,16604,1-3-22 11:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10964,696455,Brentwood,Podiatry,11224,1-3-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10965,696455,Brentwood,Podiatry,17455,1-3-22 12:45 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+10966,696455,Brentwood,Podiatry,18148,1-3-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Cancelled
+10967,696455,Brentwood,Podiatry,10282,1-3-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+10968,696455,Brentwood,Podiatry,16678,1-3-22 1:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10969,696455,Brentwood,Podiatry,19467,1-3-22 2:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+10970,696455,Brentwood,Podiatry,10268,1-3-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+10971,696455,Brentwood,Podiatry,17353,1-3-22 2:30 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+10972,696455,Brentwood,Podiatry,13243,1-3-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10973,696455,Brentwood,Podiatry,10672,1-3-22 3:00 PM,New Patient,30,Ankle sprain,Private,Completed
+10974,696455,Brentwood,Podiatry,17878,1-3-22 3:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+10975,696455,Brentwood,Podiatry,18269,1-4-22 8:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+10976,696455,Brentwood,Podiatry,19268,1-4-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10977,696455,Brentwood,Podiatry,11664,1-4-22 9:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+10978,696455,Brentwood,Podiatry,12032,1-4-22 10:00 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+10979,696455,Brentwood,Podiatry,19109,1-4-22 10:15 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10980,696455,Brentwood,Podiatry,15461,1-4-22 10:30 AM,New Patient,30,Heel pain,Private,Completed
+10981,696455,Brentwood,Podiatry,17187,1-4-22 11:00 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Rescheduled
+10982,696455,Brentwood,Podiatry,18219,1-4-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+10983,696455,Brentwood,Podiatry,12960,1-4-22 11:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+10984,696455,Brentwood,Podiatry,19543,1-4-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10985,696455,Brentwood,Podiatry,14769,1-4-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10986,696455,Brentwood,Podiatry,16446,1-4-22 1:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+10987,696455,Brentwood,Podiatry,15545,1-4-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+10988,696455,Brentwood,Podiatry,10564,1-4-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+10989,696455,Brentwood,Podiatry,14694,1-4-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Cancelled
+10990,696455,Brentwood,Podiatry,13331,1-4-22 2:00 PM,New Patient,30,Calluses,Medicare,Completed
+10991,696455,Brentwood,Podiatry,13300,1-4-22 2:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+10992,696455,Brentwood,Podiatry,16538,1-4-22 2:45 PM,Follow-up Visit,15,Injection,Private,Completed
+10993,696455,Brentwood,Podiatry,14881,1-4-22 3:00 PM,New Patient,30,Calluses,Private,Completed
+10994,696455,Brentwood,Podiatry,17095,1-4-22 3:30 PM,New Patient,30,Nail care,Medicare,Completed
+10995,696455,Brentwood,Podiatry,12084,1-5-22 8:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10996,696455,Brentwood,Podiatry,18427,1-5-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+10997,696455,Brentwood,Podiatry,12839,1-5-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+10998,696455,Brentwood,Podiatry,11409,1-5-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+10999,696455,Brentwood,Podiatry,17412,1-5-22 9:00 AM,New Patient,30,Athlete's foot,Private,Completed
+11000,696455,Brentwood,Podiatry,16679,1-5-22 9:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11001,696455,Brentwood,Podiatry,19460,1-5-22 10:00 AM,New Patient,30,Calluses,Private,Completed
+11002,696455,Brentwood,Podiatry,13477,1-5-22 10:45 AM,New Patient,30,Routine foot care,Medicare,Completed
+11003,696455,Brentwood,Podiatry,17059,1-5-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11004,696455,Brentwood,Podiatry,11363,1-5-22 11:30 AM,New Patient,30,Ankle sprain,Cash pay,No-Show
+11005,696455,Brentwood,Podiatry,12194,1-5-22 12:45 PM,New Patient,30,Heel pain,Private,Completed
+11006,696455,Brentwood,Podiatry,19460,1-5-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11007,696455,Brentwood,Podiatry,12417,1-5-22 1:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11008,696455,Brentwood,Podiatry,11485,1-5-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11009,696455,Brentwood,Podiatry,12864,1-5-22 2:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11010,696455,Brentwood,Podiatry,13846,1-5-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11011,696455,Brentwood,Podiatry,15960,1-5-22 2:45 PM,New Patient,30,Ankle pain,Private,Completed
+11012,696455,Brentwood,Podiatry,17654,1-5-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11013,696455,Brentwood,Podiatry,10170,1-6-22 8:00 AM,Follow-up Visit,15,Nail care,Medicare,No-Show
+11014,696455,Brentwood,Podiatry,15846,1-6-22 8:15 AM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11015,696455,Brentwood,Podiatry,15380,1-6-22 8:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11016,696455,Brentwood,Podiatry,18746,1-6-22 8:45 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11017,696455,Brentwood,Podiatry,10016,1-6-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11018,696455,Brentwood,Podiatry,13497,1-6-22 9:15 AM,New Patient,30,Routine foot care,Medicare,Completed
+11019,696455,Brentwood,Podiatry,18197,1-6-22 9:45 AM,New Patient,30,Calluses,Private,Completed
+11020,696455,Brentwood,Podiatry,10259,1-6-22 10:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11021,696455,Brentwood,Podiatry,11952,1-6-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11022,696455,Brentwood,Podiatry,16052,1-6-22 10:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11023,696455,Brentwood,Podiatry,15551,1-6-22 11:00 AM,New Patient,30,Nail care,Medicare,Completed
+11024,696455,Brentwood,Podiatry,10175,1-6-22 11:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11025,696455,Brentwood,Podiatry,14068,1-6-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+11026,696455,Brentwood,Podiatry,18306,1-6-22 1:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11027,696455,Brentwood,Podiatry,12999,1-6-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11028,696455,Brentwood,Podiatry,13431,1-6-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11029,696455,Brentwood,Podiatry,12335,1-6-22 2:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+11030,696455,Brentwood,Podiatry,12727,1-6-22 2:30 PM,Procedure,60,Ingrown toenail,Private,Completed
+11031,696455,Brentwood,Podiatry,17675,1-7-22 8:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11032,696455,Brentwood,Podiatry,14622,1-7-22 8:30 AM,New Patient,30,Calluses,Private,Completed
+11033,696455,Brentwood,Podiatry,11077,1-7-22 9:30 AM,New Patient,30,Ankle sprain,Private,Completed
+11034,696455,Brentwood,Podiatry,14438,1-7-22 10:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11035,696455,Brentwood,Podiatry,14524,1-7-22 10:15 AM,New Patient,30,Ankle pain,Private,Completed
+11036,696455,Brentwood,Podiatry,15814,1-7-22 11:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11037,696455,Brentwood,Podiatry,15247,1-7-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Rescheduled
+11038,696455,Brentwood,Podiatry,17112,1-7-22 11:30 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+11039,696455,Brentwood,Podiatry,12747,1-7-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11040,696455,Brentwood,Podiatry,12036,1-7-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11041,696455,Brentwood,Podiatry,10322,1-7-22 1:30 PM,New Patient,30,Routine foot care,Medicare,No-Show
+11042,696455,Brentwood,Podiatry,18572,1-7-22 2:00 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11043,696455,Brentwood,Podiatry,17947,1-7-22 2:15 PM,New Patient,30,Calluses,Private,Completed
+11044,696455,Brentwood,Podiatry,16363,1-7-22 3:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11045,696455,Brentwood,Podiatry,14627,1-7-22 3:15 PM,Follow-up Visit,15,Injection,Private,No-Show
+11046,696455,Brentwood,Podiatry,12680,1-10-22 8:15 AM,Follow-up Visit,15,Nail care,Private,Completed
+11047,696455,Brentwood,Podiatry,11231,1-10-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11048,696455,Brentwood,Podiatry,17213,1-10-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11049,696455,Brentwood,Podiatry,16992,1-10-22 9:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11050,696455,Brentwood,Podiatry,17591,1-10-22 10:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11051,696455,Brentwood,Podiatry,19438,1-10-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11052,696455,Brentwood,Podiatry,11331,1-10-22 10:45 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+11053,696455,Brentwood,Podiatry,13899,1-10-22 11:00 AM,New Patient,30,Heel pain,Private,Completed
+11054,696455,Brentwood,Podiatry,18139,1-10-22 11:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11055,696455,Brentwood,Podiatry,11321,1-10-22 11:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11056,696455,Brentwood,Podiatry,12937,1-10-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11057,696455,Brentwood,Podiatry,19475,1-10-22 12:45 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11058,696455,Brentwood,Podiatry,13064,1-10-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Cancelled
+11059,696455,Brentwood,Podiatry,10030,1-10-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11060,696455,Brentwood,Podiatry,18832,1-10-22 1:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11061,696455,Brentwood,Podiatry,12855,1-10-22 2:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11062,696455,Brentwood,Podiatry,19344,1-10-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11063,696455,Brentwood,Podiatry,16304,1-10-22 2:30 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+11064,696455,Brentwood,Podiatry,15463,1-10-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11065,696455,Brentwood,Podiatry,17155,1-10-22 3:00 PM,New Patient,30,Ankle sprain,Private,Completed
+11066,696455,Brentwood,Podiatry,13844,1-10-22 3:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+11067,696455,Brentwood,Podiatry,14939,1-11-22 8:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+11068,696455,Brentwood,Podiatry,17989,1-11-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11069,696455,Brentwood,Podiatry,17060,1-11-22 9:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11070,696455,Brentwood,Podiatry,12757,1-11-22 10:00 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11071,696455,Brentwood,Podiatry,18632,1-11-22 10:15 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11072,696455,Brentwood,Podiatry,17740,1-11-22 10:30 AM,New Patient,30,Heel pain,Private,Completed
+11073,696455,Brentwood,Podiatry,14450,1-11-22 11:00 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Rescheduled
+11074,696455,Brentwood,Podiatry,12031,1-11-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11075,696455,Brentwood,Podiatry,14768,1-11-22 11:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11076,696455,Brentwood,Podiatry,12832,1-11-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11077,696455,Brentwood,Podiatry,12038,1-11-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11078,696455,Brentwood,Podiatry,13331,1-11-22 1:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11079,696455,Brentwood,Podiatry,16588,1-11-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11080,696455,Brentwood,Podiatry,10603,1-11-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11081,696455,Brentwood,Podiatry,11723,1-11-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Cancelled
+11082,696455,Brentwood,Podiatry,12113,1-11-22 2:00 PM,New Patient,30,Calluses,Medicare,Completed
+11083,696455,Brentwood,Podiatry,12596,1-11-22 2:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11084,696455,Brentwood,Podiatry,19224,1-11-22 2:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11085,696455,Brentwood,Podiatry,19334,1-11-22 3:00 PM,New Patient,30,Calluses,Private,Completed
+11086,696455,Brentwood,Podiatry,16400,1-11-22 3:30 PM,New Patient,30,Nail care,Medicare,Completed
+11087,696455,Brentwood,Podiatry,12499,1-12-22 8:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+11088,696455,Brentwood,Podiatry,18087,1-12-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11089,696455,Brentwood,Podiatry,14467,1-12-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11090,696455,Brentwood,Podiatry,12579,1-12-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11091,696455,Brentwood,Podiatry,13211,1-12-22 9:00 AM,New Patient,30,Athlete's foot,Private,Completed
+11092,696455,Brentwood,Podiatry,18568,1-12-22 9:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11093,696455,Brentwood,Podiatry,12564,1-12-22 10:00 AM,New Patient,30,Calluses,Private,Completed
+11094,696455,Brentwood,Podiatry,11416,1-12-22 10:45 AM,New Patient,30,Routine foot care,Medicare,Completed
+11095,696455,Brentwood,Podiatry,10356,1-12-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11096,696455,Brentwood,Podiatry,11636,1-12-22 11:30 AM,New Patient,30,Ankle sprain,Private,No-Show
+11097,696455,Brentwood,Podiatry,18290,1-12-22 12:45 PM,New Patient,30,Heel pain,Private,Completed
+11098,696455,Brentwood,Podiatry,12942,1-12-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11099,696455,Brentwood,Podiatry,13230,1-12-22 1:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11100,696455,Brentwood,Podiatry,11779,1-12-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11101,696455,Brentwood,Podiatry,10692,1-12-22 2:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11102,696455,Brentwood,Podiatry,17766,1-12-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11103,696455,Brentwood,Podiatry,13602,1-12-22 2:45 PM,New Patient,30,Ankle pain,Private,Completed
+11104,696455,Brentwood,Podiatry,14706,1-12-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11105,696455,Brentwood,Podiatry,11542,1-13-22 8:00 AM,Follow-up Visit,15,Nail care,Medicare,No-Show
+11106,696455,Brentwood,Podiatry,14922,1-13-22 8:15 AM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11107,696455,Brentwood,Podiatry,14740,1-13-22 8:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11108,696455,Brentwood,Podiatry,10522,1-13-22 8:45 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11109,696455,Brentwood,Podiatry,16462,1-13-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11110,696455,Brentwood,Podiatry,15790,1-13-22 9:15 AM,New Patient,30,Routine foot care,Medicare,Completed
+11111,696455,Brentwood,Podiatry,13881,1-13-22 9:45 AM,New Patient,30,Calluses,Private,Completed
+11112,696455,Brentwood,Podiatry,19514,1-13-22 10:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11113,696455,Brentwood,Podiatry,16264,1-13-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11114,696455,Brentwood,Podiatry,19013,1-13-22 10:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11115,696455,Brentwood,Podiatry,15978,1-13-22 11:00 AM,New Patient,30,Nail care,Medicare,Completed
+11116,696455,Brentwood,Podiatry,10669,1-13-22 11:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11117,696455,Brentwood,Podiatry,14149,1-13-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+11118,696455,Brentwood,Podiatry,14914,1-13-22 1:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11119,696455,Brentwood,Podiatry,16640,1-13-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11120,696455,Brentwood,Podiatry,17916,1-13-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11121,696455,Brentwood,Podiatry,13570,1-13-22 2:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+11122,696455,Brentwood,Podiatry,15639,1-13-22 2:30 PM,Procedure,60,Ingrown toenail,Private,Completed
+11123,696455,Brentwood,Podiatry,19054,1-14-22 8:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11124,696455,Brentwood,Podiatry,17348,1-14-22 8:30 AM,New Patient,30,Calluses,Private,Completed
+11125,696455,Brentwood,Podiatry,17765,1-14-22 9:30 AM,New Patient,30,Ankle sprain,Private,Completed
+11126,696455,Brentwood,Podiatry,12764,1-14-22 10:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11127,696455,Brentwood,Podiatry,13589,1-14-22 10:15 AM,New Patient,30,Ankle pain,Private,Completed
+11128,696455,Brentwood,Podiatry,10024,1-14-22 11:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11129,696455,Brentwood,Podiatry,16345,1-14-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Rescheduled
+11130,696455,Brentwood,Podiatry,18445,1-14-22 11:30 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+11131,696455,Brentwood,Podiatry,10350,1-14-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11132,696455,Brentwood,Podiatry,10682,1-14-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11133,696455,Brentwood,Podiatry,12383,1-14-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11134,696455,Brentwood,Podiatry,10109,1-14-22 2:00 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11135,696455,Brentwood,Podiatry,19934,1-14-22 2:15 PM,New Patient,30,Calluses,Private,Completed
+11136,696455,Brentwood,Podiatry,17437,1-14-22 3:00 PM,Follow-up Visit,15,Nail care,Cash pay,No-Show
+11137,696455,Brentwood,Podiatry,18997,1-14-22 3:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11138,696455,Brentwood,Podiatry,14348,1-18-22 8:15 AM,Follow-up Visit,15,Nail care,Private,Completed
+11139,696455,Brentwood,Podiatry,14963,1-18-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11140,696455,Brentwood,Podiatry,17748,1-18-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11141,696455,Brentwood,Podiatry,14152,1-18-22 9:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11142,696455,Brentwood,Podiatry,18582,1-18-22 10:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11143,696455,Brentwood,Podiatry,15896,1-18-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11144,696455,Brentwood,Podiatry,15153,1-18-22 10:45 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+11145,696455,Brentwood,Podiatry,16014,1-18-22 11:00 AM,New Patient,30,Heel pain,Private,Completed
+11146,696455,Brentwood,Podiatry,10437,1-18-22 11:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11147,696455,Brentwood,Podiatry,18923,1-18-22 11:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11148,696455,Brentwood,Podiatry,16007,1-18-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11149,696455,Brentwood,Podiatry,11851,1-18-22 12:45 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11150,696455,Brentwood,Podiatry,18950,1-18-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Cancelled
+11151,696455,Brentwood,Podiatry,15956,1-18-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11152,696455,Brentwood,Podiatry,15479,1-18-22 1:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11153,696455,Brentwood,Podiatry,12465,1-18-22 2:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11154,696455,Brentwood,Podiatry,11324,1-18-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11155,696455,Brentwood,Podiatry,17691,1-18-22 2:30 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+11156,696455,Brentwood,Podiatry,14298,1-18-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11157,696455,Brentwood,Podiatry,17310,1-18-22 3:00 PM,New Patient,30,Ankle sprain,Private,Completed
+11158,696455,Brentwood,Podiatry,13896,1-18-22 3:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+11159,696455,Brentwood,Podiatry,14834,1-19-22 8:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+11160,696455,Brentwood,Podiatry,13189,1-19-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11161,696455,Brentwood,Podiatry,17988,1-19-22 9:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11162,696455,Brentwood,Podiatry,11972,1-19-22 10:00 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11163,696455,Brentwood,Podiatry,14962,1-19-22 10:15 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11164,696455,Brentwood,Podiatry,19572,1-19-22 10:30 AM,New Patient,30,Heel pain,Private,Completed
+11165,696455,Brentwood,Podiatry,15983,1-19-22 11:00 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Rescheduled
+11166,696455,Brentwood,Podiatry,15962,1-19-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11167,696455,Brentwood,Podiatry,10965,1-19-22 11:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11168,696455,Brentwood,Podiatry,13253,1-19-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11169,696455,Brentwood,Podiatry,16520,1-19-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11170,696455,Brentwood,Podiatry,17428,1-19-22 1:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11171,696455,Brentwood,Podiatry,18451,1-19-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11172,696455,Brentwood,Podiatry,14088,1-19-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11173,696455,Brentwood,Podiatry,15291,1-19-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Cancelled
+11174,696455,Brentwood,Podiatry,18824,1-19-22 2:00 PM,New Patient,30,Calluses,Medicare,Completed
+11175,696455,Brentwood,Podiatry,18163,1-19-22 2:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11176,696455,Brentwood,Podiatry,19454,1-19-22 2:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11177,696455,Brentwood,Podiatry,14165,1-19-22 3:00 PM,New Patient,30,Calluses,Private,Completed
+11178,696455,Brentwood,Podiatry,15184,1-19-22 3:30 PM,New Patient,30,Nail care,Medicare,Completed
+11179,696455,Brentwood,Podiatry,18365,1-20-22 8:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+11180,696455,Brentwood,Podiatry,17067,1-20-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11181,696455,Brentwood,Podiatry,18271,1-20-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11182,696455,Brentwood,Podiatry,16963,1-20-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11183,696455,Brentwood,Podiatry,12286,1-20-22 9:00 AM,New Patient,30,Athlete's foot,Private,Completed
+11184,696455,Brentwood,Podiatry,18887,1-20-22 9:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11185,696455,Brentwood,Podiatry,10196,1-20-22 10:00 AM,New Patient,30,Calluses,Private,Completed
+11186,696455,Brentwood,Podiatry,19692,1-20-22 10:45 AM,New Patient,30,Routine foot care,Medicare,Completed
+11187,696455,Brentwood,Podiatry,15711,1-20-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11188,696455,Brentwood,Podiatry,18230,1-20-22 11:30 AM,New Patient,30,Ankle sprain,Private,No-Show
+11189,696455,Brentwood,Podiatry,19640,1-20-22 12:45 PM,New Patient,30,Heel pain,Private,Completed
+11190,696455,Brentwood,Podiatry,13932,1-20-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11191,696455,Brentwood,Podiatry,11511,1-20-22 1:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11192,696455,Brentwood,Podiatry,19953,1-20-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11193,696455,Brentwood,Podiatry,17433,1-20-22 2:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11194,696455,Brentwood,Podiatry,14409,1-20-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11195,696455,Brentwood,Podiatry,10069,1-20-22 2:45 PM,New Patient,30,Ankle pain,Private,Completed
+11196,696455,Brentwood,Podiatry,17947,1-20-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11197,696455,Brentwood,Podiatry,11580,1-21-22 8:00 AM,Follow-up Visit,15,Nail care,Medicare,No-Show
+11198,696455,Brentwood,Podiatry,12044,1-21-22 8:15 AM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11199,696455,Brentwood,Podiatry,11648,1-21-22 8:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11200,696455,Brentwood,Podiatry,11585,1-21-22 8:45 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11201,696455,Brentwood,Podiatry,11046,1-21-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11202,696455,Brentwood,Podiatry,16051,1-21-22 9:15 AM,New Patient,30,Routine foot care,Medicare,No-Show
+11203,696455,Brentwood,Podiatry,16963,1-21-22 9:45 AM,New Patient,30,Calluses,Private,Completed
+11204,696455,Brentwood,Podiatry,15431,1-21-22 10:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11205,696455,Brentwood,Podiatry,14911,1-21-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11206,696455,Brentwood,Podiatry,13682,1-21-22 10:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11207,696455,Brentwood,Podiatry,14517,1-21-22 11:00 AM,New Patient,30,Nail care,Medicare,Completed
+11208,696455,Brentwood,Podiatry,18206,1-21-22 11:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11209,696455,Brentwood,Podiatry,17749,1-21-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+11210,696455,Brentwood,Podiatry,11803,1-21-22 1:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11211,696455,Brentwood,Podiatry,11612,1-21-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11212,696455,Brentwood,Podiatry,17508,1-21-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11213,696455,Brentwood,Podiatry,18885,1-21-22 2:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+11214,696455,Brentwood,Podiatry,14914,1-21-22 2:30 PM,Procedure,60,Ingrown toenail,Private,Completed
+11215,696455,Brentwood,Podiatry,13734,1-24-22 8:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11216,696455,Brentwood,Podiatry,10988,1-24-22 8:30 AM,New Patient,30,Calluses,Private,Completed
+11217,696455,Brentwood,Podiatry,11611,1-24-22 9:30 AM,New Patient,30,Ankle sprain,Private,Completed
+11218,696455,Brentwood,Podiatry,10295,1-24-22 10:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11219,696455,Brentwood,Podiatry,11790,1-24-22 10:15 AM,New Patient,30,Ankle pain,Private,Completed
+11220,696455,Brentwood,Podiatry,11422,1-24-22 11:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11221,696455,Brentwood,Podiatry,16007,1-24-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Rescheduled
+11222,696455,Brentwood,Podiatry,14606,1-24-22 11:30 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+11223,696455,Brentwood,Podiatry,14879,1-24-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11224,696455,Brentwood,Podiatry,18684,1-24-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11225,696455,Brentwood,Podiatry,11702,1-24-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11226,696455,Brentwood,Podiatry,16391,1-24-22 2:00 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11227,696455,Brentwood,Podiatry,10143,1-24-22 2:15 PM,New Patient,30,Calluses,Private,Completed
+11228,696455,Brentwood,Podiatry,10544,1-24-22 3:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11229,696455,Brentwood,Podiatry,15916,1-24-22 3:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11230,696455,Brentwood,Podiatry,17688,1-25-22 8:15 AM,Follow-up Visit,15,Nail care,Private,Completed
+11231,696455,Brentwood,Podiatry,19437,1-25-22 8:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11232,696455,Brentwood,Podiatry,17742,1-25-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11233,696455,Brentwood,Podiatry,19896,1-25-22 9:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11234,696455,Brentwood,Podiatry,15755,1-25-22 10:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11235,696455,Brentwood,Podiatry,13569,1-25-22 10:30 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11236,696455,Brentwood,Podiatry,18197,1-25-22 10:45 AM,Follow-up Visit,15,Orthotic F/U,Cash pay,Completed
+11237,696455,Brentwood,Podiatry,18032,1-25-22 11:00 AM,New Patient,30,Heel pain,Private,Completed
+11238,696455,Brentwood,Podiatry,14501,1-25-22 11:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11239,696455,Brentwood,Podiatry,12189,1-25-22 11:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11240,696455,Brentwood,Podiatry,12342,1-25-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11241,696455,Brentwood,Podiatry,15611,1-25-22 12:45 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11242,696455,Brentwood,Podiatry,16075,1-25-22 1:00 PM,New Patient,30,Routine foot care,Cash pay,No-Show
+11243,696455,Brentwood,Podiatry,16072,1-25-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11244,696455,Brentwood,Podiatry,16002,1-25-22 1:45 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11245,696455,Brentwood,Podiatry,17301,1-25-22 2:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11246,696455,Brentwood,Podiatry,18774,1-25-22 2:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11247,696455,Brentwood,Podiatry,19949,1-25-22 2:30 PM,Follow-up Visit,15,Athlete's foot,Private,Completed
+11248,696455,Brentwood,Podiatry,12498,1-25-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11249,696455,Brentwood,Podiatry,17440,1-25-22 3:00 PM,New Patient,30,Ankle sprain,Private,Completed
+11250,696455,Brentwood,Podiatry,12581,1-25-22 3:30 PM,New Patient,30,Ingrown toenail,Private,Completed
+11251,696455,Brentwood,Podiatry,17726,1-26-22 8:00 AM,Procedure,60,Ingrown toenail,Private,Completed
+11252,696455,Brentwood,Podiatry,19408,1-26-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11253,696455,Brentwood,Podiatry,16246,1-26-22 9:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11254,696455,Brentwood,Podiatry,12778,1-26-22 10:00 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11255,696455,Brentwood,Podiatry,10555,1-26-22 10:15 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11256,696455,Brentwood,Podiatry,16880,1-26-22 10:30 AM,New Patient,30,Heel pain,Private,Completed
+11257,696455,Brentwood,Podiatry,18961,1-26-22 11:00 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Rescheduled
+11258,696455,Brentwood,Podiatry,14107,1-26-22 11:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11259,696455,Brentwood,Podiatry,13375,1-26-22 11:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11260,696455,Brentwood,Podiatry,11098,1-26-22 12:30 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11261,696455,Brentwood,Podiatry,19476,1-26-22 12:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11262,696455,Brentwood,Podiatry,12875,1-26-22 1:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11263,696455,Brentwood,Podiatry,10928,1-26-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11264,696455,Brentwood,Podiatry,16008,1-26-22 1:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11265,696455,Brentwood,Podiatry,12391,1-26-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Cancelled
+11266,696455,Brentwood,Podiatry,11815,1-26-22 2:00 PM,New Patient,30,Calluses,Medicare,Completed
+11267,696455,Brentwood,Podiatry,19692,1-26-22 2:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11268,696455,Brentwood,Podiatry,10546,1-26-22 2:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11269,696455,Brentwood,Podiatry,12515,1-26-22 3:00 PM,New Patient,30,Calluses,Private,Completed
+11270,696455,Brentwood,Podiatry,18919,1-26-22 3:30 PM,New Patient,30,Nail care,Medicare,Completed
+11271,696455,Brentwood,Podiatry,13713,1-27-22 8:00 AM,Follow-up Visit,15,Routine foot care,Medicare,No-Show
+11272,696455,Brentwood,Podiatry,15461,1-27-22 8:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11273,696455,Brentwood,Podiatry,14213,1-27-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11274,696455,Brentwood,Podiatry,14973,1-27-22 8:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11275,696455,Brentwood,Podiatry,17200,1-27-22 9:00 AM,New Patient,30,Athlete's foot,Private,Completed
+11276,696455,Brentwood,Podiatry,15061,1-27-22 9:30 AM,New Patient,30,Ingrown toenail,Private,Completed
+11277,696455,Brentwood,Podiatry,11787,1-27-22 10:00 AM,New Patient,30,Calluses,Private,Completed
+11278,696455,Brentwood,Podiatry,14403,1-27-22 10:45 AM,New Patient,30,Routine foot care,Medicare,Completed
+11279,696455,Brentwood,Podiatry,16167,1-27-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Completed
+11280,696455,Brentwood,Podiatry,15290,1-27-22 11:30 AM,New Patient,30,Ankle sprain,Private,No-Show
+11281,696455,Brentwood,Podiatry,17974,1-27-22 12:45 PM,New Patient,30,Heel pain,Private,Completed
+11282,696455,Brentwood,Podiatry,19612,1-27-22 1:15 PM,Follow-up Visit,15,Nail care,Private,Completed
+11283,696455,Brentwood,Podiatry,15598,1-27-22 1:30 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11284,696455,Brentwood,Podiatry,11852,1-27-22 1:45 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11285,696455,Brentwood,Podiatry,15180,1-27-22 2:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11286,696455,Brentwood,Podiatry,13848,1-27-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11287,696455,Brentwood,Podiatry,18967,1-27-22 2:45 PM,New Patient,30,Ankle pain,Private,Completed
+11288,696455,Brentwood,Podiatry,18974,1-27-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11289,696455,Brentwood,Podiatry,14934,1-28-22 8:00 AM,Follow-up Visit,15,Nail care,Medicare,No-Show
+11290,696455,Brentwood,Podiatry,17108,1-28-22 8:15 AM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11291,696455,Brentwood,Podiatry,15708,1-28-22 8:30 AM,Follow-up Visit,15,Injection,Private,Completed
+11292,696455,Brentwood,Podiatry,17232,1-28-22 8:45 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11293,696455,Brentwood,Podiatry,14516,1-28-22 9:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11294,696455,Brentwood,Podiatry,12320,1-28-22 9:15 AM,New Patient,30,Routine foot care,Medicare,Completed
+11295,696455,Brentwood,Podiatry,18204,1-28-22 9:45 AM,New Patient,30,Calluses,Private,Completed
+11296,696455,Brentwood,Podiatry,19372,1-28-22 10:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11297,696455,Brentwood,Podiatry,12987,1-28-22 10:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11298,696455,Brentwood,Podiatry,18165,1-28-22 10:45 AM,Follow-up Visit,15,Calluses,Private,Completed
+11299,696455,Brentwood,Podiatry,11427,1-28-22 11:00 AM,New Patient,30,Nail care,Medicare,Completed
+11300,696455,Brentwood,Podiatry,11791,1-28-22 11:30 AM,New Patient,30,Routine foot care,Medicare,Completed
+11301,696455,Brentwood,Podiatry,18083,1-28-22 12:30 PM,New Patient,30,Heel pain,Private,Completed
+11302,696455,Brentwood,Podiatry,19314,1-28-22 1:00 PM,Follow-up Visit,15,Calluses,Medicare,Completed
+11303,696455,Brentwood,Podiatry,13804,1-28-22 1:15 PM,Follow-up Visit,15,Nail care,Private,No-Show
+11304,696455,Brentwood,Podiatry,11441,1-28-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11305,696455,Brentwood,Podiatry,18218,1-28-22 2:00 PM,Follow-up Visit,15,Routine foot care,Medicare,Rescheduled
+11306,696455,Brentwood,Podiatry,10426,1-28-22 2:30 PM,Procedure,60,Ingrown toenail,Private,Completed
+11307,696455,Brentwood,Podiatry,15878,1-31-22 8:00 AM,New Patient,30,Routine foot care,Medicare,Completed
+11308,696455,Brentwood,Podiatry,12118,1-31-22 8:30 AM,New Patient,30,Calluses,Private,Completed
+11309,696455,Brentwood,Podiatry,14554,1-31-22 9:30 AM,New Patient,30,Ankle sprain,Private,Completed
+11310,696455,Brentwood,Podiatry,11330,1-31-22 10:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11311,696455,Brentwood,Podiatry,15693,1-31-22 10:15 AM,New Patient,30,Ankle pain,Private,Completed
+11312,696455,Brentwood,Podiatry,13547,1-31-22 11:00 AM,New Patient,30,Ingrown toenail,Private,Completed
+11313,696455,Brentwood,Podiatry,14108,1-31-22 11:15 AM,Follow-up Visit,15,Nail care,Medicare,Rescheduled
+11314,696455,Brentwood,Podiatry,17772,1-31-22 11:30 AM,Follow-up Visit,15,Orthotic F/U,Medicare,Completed
+11315,696455,Brentwood,Podiatry,11646,1-31-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11316,696455,Brentwood,Podiatry,18757,1-31-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11317,696455,Brentwood,Podiatry,18535,1-31-22 1:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11318,696455,Brentwood,Podiatry,12993,1-31-22 2:00 PM,Follow-up Visit,15,Orthotic F/U,Private,Completed
+11319,696455,Brentwood,Podiatry,16023,1-31-22 2:15 PM,New Patient,30,Calluses,Private,Completed
+11320,696455,Brentwood,Podiatry,18189,1-31-22 3:00 PM,Follow-up Visit,15,Nail care,Medicare,Completed
+11321,696455,Brentwood,Podiatry,11669,1-31-22 3:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11322,871346,Venice,Podiatry,15160,1-3-22 8:00 AM,Follow-up Visit,15,Injection,Cash pay,Rescheduled
+11323,871346,Venice,Podiatry,14524,1-3-22 8:15 AM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11324,871346,Venice,Podiatry,13780,1-3-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11325,871346,Venice,Podiatry,15069,1-3-22 8:45 AM,Follow-up Visit,15,Bunion,Private,Completed
+11326,871346,Venice,Podiatry,14569,1-3-22 9:00 AM,New Patient,30,Foot pain,Private,Completed
+11327,871346,Venice,Podiatry,18273,1-3-22 9:30 AM,New Patient,30,Heel pain,Private,Completed
+11328,871346,Venice,Podiatry,13900,1-3-22 10:30 AM,New Patient,30,Big toe pain,Private,Completed
+11329,871346,Venice,Podiatry,15156,1-3-22 11:00 AM,Follow-up Visit,15,Achilles tendon,Private,Cancelled
+11330,871346,Venice,Podiatry,12530,1-3-22 11:15 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,Completed
+11331,871346,Venice,Podiatry,13342,1-3-22 11:30 AM,New Patient,30,Ankle pain,Private,Completed
+11332,871346,Venice,Podiatry,11813,1-3-22 12:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11333,871346,Venice,Podiatry,11212,1-3-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11334,871346,Venice,Podiatry,17435,1-3-22 1:00 PM,New Patient,30,Calluses,Medicare,Completed
+11335,871346,Venice,Podiatry,14548,1-3-22 1:30 PM,Follow-up Visit,15,Postop,Private,Completed
+11336,871346,Venice,Podiatry,19493,1-3-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11337,871346,Venice,Podiatry,11355,1-3-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+11338,871346,Venice,Podiatry,18588,1-3-22 2:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11339,871346,Venice,Podiatry,15976,1-3-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11340,871346,Venice,Podiatry,14015,1-3-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11341,871346,Venice,Podiatry,14190,1-4-22 8:00 AM,New Patient,30,Flat feet,Private,Completed
+11342,871346,Venice,Podiatry,10713,1-4-22 8:30 AM,New Patient,30,Arch pain,Private,Completed
+11343,871346,Venice,Podiatry,12988,1-4-22 9:00 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11344,871346,Venice,Podiatry,16056,1-4-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11345,871346,Venice,Podiatry,14836,1-4-22 9:30 AM,Follow-up Visit,15,Rash,Private,Completed
+11346,871346,Venice,Podiatry,10403,1-4-22 9:45 AM,New Patient,30,Surgical consult,Private,Completed
+11347,871346,Venice,Podiatry,15613,1-4-22 10:15 AM,New Patient,30,Toe pain,Private,Completed
+11348,871346,Venice,Podiatry,13045,1-4-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11349,871346,Venice,Podiatry,19244,1-4-22 11:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11350,871346,Venice,Podiatry,11376,1-4-22 11:15 AM,New Patient,30,Flat feet,Private,Completed
+11351,871346,Venice,Podiatry,15356,1-4-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11352,871346,Venice,Podiatry,15969,1-4-22 12:30 PM,New Patient,30,Bunion,Private,Completed
+11353,871346,Venice,Podiatry,16203,1-4-22 1:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11354,871346,Venice,Podiatry,19006,1-4-22 1:15 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+11355,871346,Venice,Podiatry,16747,1-4-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+11356,871346,Venice,Podiatry,14928,1-4-22 2:30 PM,Follow-up Visit,15,Postop,Private,Completed
+11357,871346,Venice,Podiatry,17433,1-4-22 2:45 PM,New Patient,30,Plantar fasciitis,Medicare,Completed
+11358,871346,Venice,Podiatry,15338,1-4-22 3:15 PM,Follow-up Visit,15,Achilles tendon,Private,No-Show
+11359,871346,Venice,Podiatry,10647,1-5-22 8:15 AM,Procedure,60,Ingrown toenail,Private,Completed
+11360,871346,Venice,Podiatry,16994,1-5-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+11361,871346,Venice,Podiatry,11098,1-5-22 9:30 AM,New Patient,30,Wound,Medicare,Completed
+11362,871346,Venice,Podiatry,11318,1-5-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11363,871346,Venice,Podiatry,14536,1-5-22 10:15 AM,Follow-up Visit,15,Calluses,Private,Completed
+11364,871346,Venice,Podiatry,10351,1-5-22 10:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11365,871346,Venice,Podiatry,16243,1-5-22 10:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11366,871346,Venice,Podiatry,19691,1-5-22 11:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Cancelled
+11367,871346,Venice,Podiatry,10200,1-5-22 11:15 AM,New Patient,30,Heel pain,Private,Completed
+11368,871346,Venice,Podiatry,17345,1-5-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11369,871346,Venice,Podiatry,11261,1-5-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+11370,871346,Venice,Podiatry,11870,1-5-22 1:15 PM,New Patient,30,Plantar warts,Private,Completed
+11371,871346,Venice,Podiatry,17226,1-5-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11372,871346,Venice,Podiatry,10196,1-5-22 2:00 PM,Follow-up Visit,15,Postop,Medicare,Completed
+11373,871346,Venice,Podiatry,15139,1-5-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11374,871346,Venice,Podiatry,19236,1-5-22 2:45 PM,New Patient,30,Hammertoes,Private,Completed
+11375,871346,Venice,Podiatry,12518,1-5-22 3:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+11376,871346,Venice,Podiatry,17700,1-6-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Cancelled
+11377,871346,Venice,Podiatry,19000,1-6-22 8:30 AM,New Patient,30,Heel pain,Private,Completed
+11378,871346,Venice,Podiatry,13666,1-6-22 9:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+11379,871346,Venice,Podiatry,13621,1-6-22 9:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11380,871346,Venice,Podiatry,10748,1-6-22 9:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11381,871346,Venice,Podiatry,18010,1-6-22 9:45 AM,New Patient,30,Foot pain,Private,Completed
+11382,871346,Venice,Podiatry,16133,1-6-22 10:15 AM,New Patient,30,Surgical consult,Medicare,Completed
+11383,871346,Venice,Podiatry,14296,1-6-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+11384,871346,Venice,Podiatry,18110,1-6-22 11:30 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11385,871346,Venice,Podiatry,14494,1-6-22 11:45 AM,Follow-up Visit,15,Postop,Private,Completed
+11386,871346,Venice,Podiatry,17313,1-6-22 12:45 PM,New Patient,30,Routine foot care,Medicare,Completed
+11387,871346,Venice,Podiatry,19757,1-6-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11388,871346,Venice,Podiatry,19101,1-6-22 1:30 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11389,871346,Venice,Podiatry,17528,1-6-22 2:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11390,871346,Venice,Podiatry,16646,1-6-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11391,871346,Venice,Podiatry,12126,1-7-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,No-Show
+11392,871346,Venice,Podiatry,15046,1-7-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11393,871346,Venice,Podiatry,16045,1-7-22 8:30 AM,Follow-up Visit,15,Big toe pain,Private,Completed
+11394,871346,Venice,Podiatry,12048,1-7-22 8:45 AM,New Patient,30,Heel pain,Private,Completed
+11395,871346,Venice,Podiatry,17340,1-7-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+11396,871346,Venice,Podiatry,19287,1-7-22 10:00 AM,Follow-up Visit,15,Toe pain,Private,No-Show
+11397,871346,Venice,Podiatry,10262,1-7-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Medicare,Completed
+11398,871346,Venice,Podiatry,17560,1-7-22 10:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+11399,871346,Venice,Podiatry,12933,1-7-22 11:00 AM,Follow-up Visit,15,Postop,Private,Completed
+11400,871346,Venice,Podiatry,13669,1-7-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11401,871346,Venice,Podiatry,19887,1-7-22 12:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11402,871346,Venice,Podiatry,17111,1-7-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11403,871346,Venice,Podiatry,12017,1-7-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Completed
+11404,871346,Venice,Podiatry,15853,1-7-22 1:30 PM,Follow-up Visit,15,Injection,Medicare,Completed
+11405,871346,Venice,Podiatry,10088,1-7-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+11406,871346,Venice,Podiatry,15709,1-7-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+11407,871346,Venice,Podiatry,17368,1-7-22 2:15 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11408,871346,Venice,Podiatry,13852,1-7-22 2:45 PM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11409,871346,Venice,Podiatry,15577,1-7-22 3:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+11410,871346,Venice,Podiatry,17467,1-7-22 3:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Rescheduled
+11411,871346,Venice,Podiatry,13033,1-10-22 8:00 AM,Follow-up Visit,15,Injection,Private,Rescheduled
+11412,871346,Venice,Podiatry,18327,1-10-22 8:15 AM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11413,871346,Venice,Podiatry,16256,1-10-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11414,871346,Venice,Podiatry,11307,1-10-22 8:45 AM,Follow-up Visit,15,Bunion,Private,Completed
+11415,871346,Venice,Podiatry,19264,1-10-22 9:00 AM,New Patient,30,Foot pain,Private,Completed
+11416,871346,Venice,Podiatry,14297,1-10-22 9:30 AM,New Patient,30,Heel pain,Private,Completed
+11417,871346,Venice,Podiatry,13592,1-10-22 10:30 AM,New Patient,30,Big toe pain,Private,Completed
+11418,871346,Venice,Podiatry,11374,1-10-22 11:00 AM,Follow-up Visit,15,Achilles tendon,Private,Cancelled
+11419,871346,Venice,Podiatry,10440,1-10-22 11:15 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,Completed
+11420,871346,Venice,Podiatry,15775,1-10-22 11:30 AM,New Patient,30,Ankle pain,Private,Completed
+11421,871346,Venice,Podiatry,18230,1-10-22 12:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11422,871346,Venice,Podiatry,18812,1-10-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11423,871346,Venice,Podiatry,10640,1-10-22 1:00 PM,New Patient,30,Calluses,Medicare,Completed
+11424,871346,Venice,Podiatry,12227,1-10-22 1:30 PM,Follow-up Visit,15,Postop,Medicare,Completed
+11425,871346,Venice,Podiatry,11594,1-10-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11426,871346,Venice,Podiatry,16855,1-10-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+11427,871346,Venice,Podiatry,17724,1-10-22 2:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11428,871346,Venice,Podiatry,14798,1-10-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11429,871346,Venice,Podiatry,16398,1-10-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11430,871346,Venice,Podiatry,12010,1-11-22 8:00 AM,New Patient,30,Flat feet,Private,Completed
+11431,871346,Venice,Podiatry,19573,1-11-22 8:30 AM,New Patient,30,Arch pain,Private,Completed
+11432,871346,Venice,Podiatry,10130,1-11-22 9:00 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11433,871346,Venice,Podiatry,14492,1-11-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11434,871346,Venice,Podiatry,19894,1-11-22 9:30 AM,Follow-up Visit,15,Rash,Private,Completed
+11435,871346,Venice,Podiatry,16255,1-11-22 9:45 AM,New Patient,30,Surgical consult,Private,Completed
+11436,871346,Venice,Podiatry,11008,1-11-22 10:15 AM,New Patient,30,Toe pain,Private,Completed
+11437,871346,Venice,Podiatry,11078,1-11-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11438,871346,Venice,Podiatry,17511,1-11-22 11:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11439,871346,Venice,Podiatry,13872,1-11-22 11:15 AM,New Patient,30,Flat feet,Private,Completed
+11440,871346,Venice,Podiatry,15087,1-11-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11441,871346,Venice,Podiatry,13660,1-11-22 12:30 PM,New Patient,30,Bunion,Medicare,Completed
+11442,871346,Venice,Podiatry,11309,1-11-22 1:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11443,871346,Venice,Podiatry,18667,1-11-22 1:15 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+11444,871346,Venice,Podiatry,13979,1-11-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+11445,871346,Venice,Podiatry,16149,1-11-22 2:30 PM,Follow-up Visit,15,Postop,Private,Completed
+11446,871346,Venice,Podiatry,18831,1-11-22 2:45 PM,New Patient,30,Plantar fasciitis,Medicare,Completed
+11447,871346,Venice,Podiatry,18710,1-11-22 3:15 PM,Follow-up Visit,15,Achilles tendon,Private,No-Show
+11448,871346,Venice,Podiatry,12215,1-12-22 8:15 AM,Procedure,60,Ingrown toenail,Private,Completed
+11449,871346,Venice,Podiatry,11206,1-12-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+11450,871346,Venice,Podiatry,15428,1-12-22 9:30 AM,New Patient,30,Wound,Medicare,Completed
+11451,871346,Venice,Podiatry,16515,1-13-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+11452,871346,Venice,Podiatry,15291,1-13-22 8:30 AM,New Patient,30,Heel pain,Private,Completed
+11453,871346,Venice,Podiatry,12277,1-13-22 9:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+11454,871346,Venice,Podiatry,18933,1-13-22 9:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11455,871346,Venice,Podiatry,16108,1-13-22 9:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11456,871346,Venice,Podiatry,12987,1-13-22 9:45 AM,New Patient,30,Foot pain,Private,Completed
+11457,871346,Venice,Podiatry,18406,1-13-22 10:15 AM,New Patient,30,Surgical consult,Medicare,Completed
+11458,871346,Venice,Podiatry,11233,1-13-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+11459,871346,Venice,Podiatry,16920,1-13-22 11:30 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11460,871346,Venice,Podiatry,11709,1-13-22 11:45 AM,Follow-up Visit,15,Postop,Private,Completed
+11461,871346,Venice,Podiatry,10655,1-13-22 12:45 PM,New Patient,30,Routine foot care,Medicare,Completed
+11462,871346,Venice,Podiatry,12359,1-13-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11463,871346,Venice,Podiatry,19433,1-13-22 1:30 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11464,871346,Venice,Podiatry,14861,1-13-22 2:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11465,871346,Venice,Podiatry,13652,1-13-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11466,871346,Venice,Podiatry,19477,1-14-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,No-Show
+11467,871346,Venice,Podiatry,11385,1-14-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11468,871346,Venice,Podiatry,19945,1-14-22 8:30 AM,Follow-up Visit,15,Big toe pain,Private,Completed
+11469,871346,Venice,Podiatry,13121,1-14-22 8:45 AM,New Patient,30,Heel pain,Private,Completed
+11470,871346,Venice,Podiatry,16131,1-14-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+11471,871346,Venice,Podiatry,14221,1-14-22 10:00 AM,Follow-up Visit,15,Toe pain,Cash pay,Completed
+11472,871346,Venice,Podiatry,18456,1-14-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Medicare,Completed
+11473,871346,Venice,Podiatry,11467,1-14-22 10:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+11474,871346,Venice,Podiatry,14439,1-14-22 11:00 AM,Follow-up Visit,15,Postop,Private,Completed
+11475,871346,Venice,Podiatry,15292,1-14-22 11:45 AM,Follow-up Visit,15,Injection,Cash pay,No-Show
+11476,871346,Venice,Podiatry,10867,1-14-22 12:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11477,871346,Venice,Podiatry,19990,1-14-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11478,871346,Venice,Podiatry,19228,1-14-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Completed
+11479,871346,Venice,Podiatry,14009,1-14-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11480,871346,Venice,Podiatry,15821,1-14-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+11481,871346,Venice,Podiatry,13611,1-14-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+11482,871346,Venice,Podiatry,17474,1-14-22 2:15 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11483,871346,Venice,Podiatry,17954,1-14-22 2:45 PM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11484,871346,Venice,Podiatry,16851,1-14-22 3:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+11485,871346,Venice,Podiatry,13282,1-14-22 3:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Rescheduled
+11486,871346,Venice,Podiatry,14462,1-18-22 8:00 AM,Follow-up Visit,15,Injection,Private,Rescheduled
+11487,871346,Venice,Podiatry,17466,1-18-22 8:15 AM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11488,871346,Venice,Podiatry,18208,1-18-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11489,871346,Venice,Podiatry,13128,1-18-22 8:45 AM,Follow-up Visit,15,Bunion,Private,Completed
+11490,871346,Venice,Podiatry,10788,1-18-22 9:00 AM,New Patient,30,Foot pain,Private,Completed
+11491,871346,Venice,Podiatry,17949,1-18-22 9:30 AM,New Patient,30,Heel pain,Private,Completed
+11492,871346,Venice,Podiatry,17312,1-18-22 10:30 AM,New Patient,30,Big toe pain,Private,Completed
+11493,871346,Venice,Podiatry,19795,1-18-22 11:00 AM,Follow-up Visit,15,Achilles tendon,Private,Cancelled
+11494,871346,Venice,Podiatry,15605,1-18-22 11:15 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,Completed
+11495,871346,Venice,Podiatry,11792,1-18-22 11:30 AM,New Patient,30,Ankle pain,Private,Completed
+11496,871346,Venice,Podiatry,14792,1-18-22 12:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11497,871346,Venice,Podiatry,17594,1-18-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11498,871346,Venice,Podiatry,13705,1-18-22 1:00 PM,New Patient,30,Calluses,Private,Completed
+11499,871346,Venice,Podiatry,12897,1-18-22 1:30 PM,Follow-up Visit,15,Postop,Private,Completed
+11500,871346,Venice,Podiatry,13473,1-18-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11501,871346,Venice,Podiatry,12210,1-18-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+11502,871346,Venice,Podiatry,12756,1-18-22 2:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11503,871346,Venice,Podiatry,15527,1-18-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11504,871346,Venice,Podiatry,11874,1-18-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11505,871346,Venice,Podiatry,10181,1-19-22 8:00 AM,New Patient,30,Flat feet,Private,Completed
+11506,871346,Venice,Podiatry,19683,1-19-22 8:30 AM,New Patient,30,Arch pain,Private,Completed
+11507,871346,Venice,Podiatry,10025,1-19-22 9:00 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11508,871346,Venice,Podiatry,19439,1-19-22 9:15 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11509,871346,Venice,Podiatry,13420,1-19-22 9:30 AM,Follow-up Visit,15,Rash,Private,Completed
+11510,871346,Venice,Podiatry,19053,1-19-22 9:45 AM,New Patient,30,Surgical consult,Private,Completed
+11511,871346,Venice,Podiatry,19736,1-19-22 10:15 AM,New Patient,30,Toe pain,Private,Completed
+11512,871346,Venice,Podiatry,10148,1-19-22 10:45 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11513,871346,Venice,Podiatry,12698,1-19-22 11:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11514,871346,Venice,Podiatry,11092,1-19-22 11:15 AM,New Patient,30,Flat feet,Private,Completed
+11515,871346,Venice,Podiatry,13683,1-19-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11516,871346,Venice,Podiatry,14994,1-19-22 12:30 PM,New Patient,30,Bunion,Private,Completed
+11517,871346,Venice,Podiatry,19252,1-19-22 1:00 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11518,871346,Venice,Podiatry,14121,1-19-22 1:15 PM,Follow-up Visit,15,Hammertoes,Private,Completed
+11519,871346,Venice,Podiatry,12883,1-19-22 2:00 PM,New Patient,30,Surgical consult,Private,Completed
+11520,871346,Venice,Podiatry,16934,1-19-22 2:30 PM,Follow-up Visit,15,Postop,Private,Completed
+11521,871346,Venice,Podiatry,11998,1-19-22 2:45 PM,New Patient,30,Plantar fasciitis,Medicare,Completed
+11522,871346,Venice,Podiatry,11543,1-19-22 3:15 PM,Follow-up Visit,15,Achilles tendon,Private,No-Show
+11523,871346,Venice,Podiatry,12953,1-20-22 8:15 AM,Procedure,60,Ingrown toenail,Private,Completed
+11524,871346,Venice,Podiatry,10058,1-20-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+11525,871346,Venice,Podiatry,16748,1-20-22 9:30 AM,New Patient,30,Wound,Medicare,Completed
+11526,871346,Venice,Podiatry,14493,1-20-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Completed
+11527,871346,Venice,Podiatry,19641,1-20-22 10:15 AM,Follow-up Visit,15,Calluses,Private,Completed
+11528,871346,Venice,Podiatry,15029,1-20-22 10:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11529,871346,Venice,Podiatry,17520,1-20-22 10:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11530,871346,Venice,Podiatry,17506,1-20-22 11:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Cancelled
+11531,871346,Venice,Podiatry,16134,1-20-22 11:15 AM,New Patient,30,Heel pain,Private,Completed
+11532,871346,Venice,Podiatry,14614,1-20-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11533,871346,Venice,Podiatry,17848,1-20-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+11534,871346,Venice,Podiatry,14580,1-20-22 1:15 PM,New Patient,30,Plantar warts,Private,Completed
+11535,871346,Venice,Podiatry,11507,1-20-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11536,871346,Venice,Podiatry,10468,1-20-22 2:00 PM,Follow-up Visit,15,Postop,Medicare,Completed
+11537,871346,Venice,Podiatry,18601,1-20-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11538,871346,Venice,Podiatry,19720,1-20-22 2:45 PM,New Patient,30,Hammertoes,Private,Completed
+11539,871346,Venice,Podiatry,14211,1-20-22 3:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+11540,871346,Venice,Podiatry,16690,1-21-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,Completed
+11541,871346,Venice,Podiatry,14251,1-21-22 8:30 AM,New Patient,30,Heel pain,Private,Completed
+11542,871346,Venice,Podiatry,10550,1-21-22 9:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+11543,871346,Venice,Podiatry,11788,1-21-22 9:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11544,871346,Venice,Podiatry,13786,1-21-22 9:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11545,871346,Venice,Podiatry,18393,1-21-22 9:45 AM,New Patient,30,Foot pain,Private,Completed
+11546,871346,Venice,Podiatry,15254,1-21-22 10:15 AM,New Patient,30,Surgical consult,Medicare,Completed
+11547,871346,Venice,Podiatry,16169,1-21-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+11548,871346,Venice,Podiatry,11595,1-21-22 11:30 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11549,871346,Venice,Podiatry,17309,1-21-22 11:45 AM,Follow-up Visit,15,Postop,Private,Completed
+11550,871346,Venice,Podiatry,12559,1-21-22 12:45 PM,New Patient,30,Routine foot care,Medicare,Completed
+11551,871346,Venice,Podiatry,15834,1-21-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11552,871346,Venice,Podiatry,18283,1-21-22 1:30 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11553,871346,Venice,Podiatry,15549,1-21-22 2:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11554,871346,Venice,Podiatry,19444,1-21-22 3:00 PM,Procedure,60,Ingrown toenail,Private,No-Show
+11555,871346,Venice,Podiatry,11314,1-24-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,No-Show
+11556,871346,Venice,Podiatry,14071,1-24-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11557,871346,Venice,Podiatry,10418,1-24-22 8:30 AM,Follow-up Visit,15,Big toe pain,Private,Completed
+11558,871346,Venice,Podiatry,16433,1-24-22 8:45 AM,New Patient,30,Heel pain,Private,Completed
+11559,871346,Venice,Podiatry,12202,1-24-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+11560,871346,Venice,Podiatry,12629,1-24-22 10:00 AM,Follow-up Visit,15,Toe pain,Private,Completed
+11561,871346,Venice,Podiatry,16543,1-24-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Medicare,Cancelled
+11562,871346,Venice,Podiatry,12406,1-24-22 10:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+11563,871346,Venice,Podiatry,16801,1-24-22 11:00 AM,Follow-up Visit,15,Postop,Private,Completed
+11564,871346,Venice,Podiatry,10041,1-24-22 11:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11565,871346,Venice,Podiatry,10904,1-24-22 12:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11566,871346,Venice,Podiatry,10083,1-24-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11567,871346,Venice,Podiatry,15976,1-24-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Completed
+11568,871346,Venice,Podiatry,15883,1-24-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11569,871346,Venice,Podiatry,14411,1-24-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+11570,871346,Venice,Podiatry,10561,1-24-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+11571,871346,Venice,Podiatry,17874,1-24-22 2:15 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11572,871346,Venice,Podiatry,18777,1-24-22 2:45 PM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11573,871346,Venice,Podiatry,15175,1-24-22 3:00 PM,Follow-up Visit,15,Plantar warts,Private,Completed
+11574,871346,Venice,Podiatry,12385,1-24-22 3:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Rescheduled
+11575,871346,Venice,Podiatry,10886,1-25-22 8:00 AM,Follow-up Visit,15,Injection,Private,Rescheduled
+11576,871346,Venice,Podiatry,18260,1-25-22 8:15 AM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11577,871346,Venice,Podiatry,12684,1-25-22 8:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11578,871346,Venice,Podiatry,16927,1-25-22 8:45 AM,Follow-up Visit,15,Bunion,Private,Completed
+11579,871346,Venice,Podiatry,19469,1-25-22 9:00 AM,New Patient,30,Foot pain,Private,Completed
+11580,871346,Venice,Podiatry,15908,1-25-22 9:30 AM,New Patient,30,Heel pain,Private,Completed
+11581,871346,Venice,Podiatry,12607,1-25-22 10:30 AM,New Patient,30,Big toe pain,Private,Completed
+11582,871346,Venice,Podiatry,12103,1-25-22 11:00 AM,Follow-up Visit,15,Achilles tendon,Private,Cancelled
+11583,871346,Venice,Podiatry,12277,1-25-22 11:15 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,Completed
+11584,871346,Venice,Podiatry,19477,1-25-22 11:30 AM,New Patient,30,Ankle pain,Private,Completed
+11585,871346,Venice,Podiatry,18916,1-25-22 12:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11586,871346,Venice,Podiatry,17716,1-25-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11587,871346,Venice,Podiatry,15025,1-25-22 1:00 PM,New Patient,30,Calluses,Private,Completed
+11588,871346,Venice,Podiatry,10683,1-25-22 1:30 PM,Follow-up Visit,15,Postop,Medicare,Completed
+11589,871346,Venice,Podiatry,15635,1-25-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11590,871346,Venice,Podiatry,10824,1-25-22 2:00 PM,New Patient,30,Flat feet,Private,Completed
+11591,871346,Venice,Podiatry,17105,1-25-22 2:30 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11592,871346,Venice,Podiatry,11894,1-25-22 2:45 PM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+11593,871346,Venice,Podiatry,11965,1-25-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11594,871346,Venice,Podiatry,11911,1-27-22 8:15 AM,Procedure,60,Ingrown toenail,Private,Completed
+11595,871346,Venice,Podiatry,14145,1-27-22 9:15 AM,Follow-up Visit,15,Heel pain,Private,Completed
+11596,871346,Venice,Podiatry,15963,1-27-22 9:30 AM,New Patient,30,Wound,Medicare,Completed
+11597,871346,Venice,Podiatry,10633,1-27-22 10:00 AM,Follow-up Visit,15,Routine foot care,Medicare,Cancelled
+11598,871346,Venice,Podiatry,10181,1-27-22 10:15 AM,Follow-up Visit,15,Calluses,Private,Completed
+11599,871346,Venice,Podiatry,17878,1-27-22 10:30 AM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11600,871346,Venice,Podiatry,19483,1-27-22 10:45 AM,Follow-up Visit,15,Injection,Private,Completed
+11601,871346,Venice,Podiatry,12391,1-27-22 11:00 AM,Follow-up Visit,15,Plantar fasciitis,Private,Cancelled
+11602,871346,Venice,Podiatry,14422,1-27-22 11:15 AM,New Patient,30,Heel pain,Private,Completed
+11603,871346,Venice,Podiatry,19433,1-27-22 12:30 PM,New Patient,30,Routine foot care,Medicare,Completed
+11604,871346,Venice,Podiatry,17870,1-27-22 1:00 PM,Follow-up Visit,15,Injection,Private,Completed
+11605,871346,Venice,Podiatry,12535,1-27-22 1:15 PM,New Patient,30,Plantar warts,Private,Completed
+11606,871346,Venice,Podiatry,13364,1-27-22 1:45 PM,Follow-up Visit,15,Injection,Private,Completed
+11607,871346,Venice,Podiatry,19285,1-27-22 2:00 PM,Follow-up Visit,15,Postop,Medicare,Completed
+11608,871346,Venice,Podiatry,14457,1-27-22 2:15 PM,New Patient,30,Heel pain,Private,Completed
+11609,871346,Venice,Podiatry,14695,1-27-22 2:45 PM,New Patient,30,Hammertoes,Private,Completed
+11610,871346,Venice,Podiatry,16326,1-27-22 3:15 PM,Follow-up Visit,30,Wound care,Medicare,Completed
+11611,871346,Venice,Podiatry,15599,1-28-22 8:00 AM,Follow-up Visit,30,Wound care,Medicare,No-Show
+11612,871346,Venice,Podiatry,19210,1-28-22 8:30 AM,New Patient,30,Heel pain,Private,Completed
+11613,871346,Venice,Podiatry,18302,1-28-22 9:00 AM,Follow-up Visit,15,Ankle pain,Private,Completed
+11614,871346,Venice,Podiatry,13772,1-28-22 9:15 AM,Follow-up Visit,15,Injection,Private,Completed
+11615,871346,Venice,Podiatry,15097,1-28-22 9:30 AM,Follow-up Visit,15,Plantar fasciitis,Private,No-Show
+11616,871346,Venice,Podiatry,17531,1-28-22 9:45 AM,New Patient,30,Foot pain,Private,Completed
+11617,871346,Venice,Podiatry,17724,1-28-22 10:15 AM,New Patient,30,Surgical consult,Medicare,Completed
+11618,871346,Venice,Podiatry,14910,1-28-22 11:00 AM,New Patient,30,Wound,Medicare,Completed
+11619,871346,Venice,Podiatry,16678,1-28-22 11:30 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11620,871346,Venice,Podiatry,19962,1-28-22 11:45 AM,Follow-up Visit,15,Postop,Private,Completed
+11621,871346,Venice,Podiatry,12420,1-28-22 12:45 PM,New Patient,30,Routine foot care,Medicare,Completed
+11622,871346,Venice,Podiatry,16034,1-28-22 1:15 PM,Follow-up Visit,15,Injection,Private,Completed
+11623,871346,Venice,Podiatry,18019,1-28-22 1:30 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11624,871346,Venice,Podiatry,15518,1-28-22 2:00 PM,Procedure,60,Ingrown toenail,Private,Completed
+11625,871346,Venice,Podiatry,19892,1-28-22 3:00 PM,Procedure,60,Ingrown toenail,Private,Rescheduled
+11626,871346,Venice,Podiatry,11444,1-31-22 8:00 AM,Follow-up Visit,15,Plantar fasciitis,Medicare,No-Show
+11627,871346,Venice,Podiatry,10828,1-31-22 8:15 AM,Follow-up Visit,15,Achilles tendon,Private,Completed
+11628,871346,Venice,Podiatry,14867,1-31-22 8:30 AM,Follow-up Visit,15,Big toe pain,Private,Completed
+11629,871346,Venice,Podiatry,12190,1-31-22 8:45 AM,New Patient,30,Heel pain,Private,Completed
+11630,871346,Venice,Podiatry,19166,1-31-22 9:15 AM,Follow-up Visit,15,Postop,Private,Completed
+11631,871346,Venice,Podiatry,15814,1-31-22 10:00 AM,Follow-up Visit,15,Toe pain,Private,Completed
+11632,871346,Venice,Podiatry,14357,1-31-22 10:15 AM,Follow-up Visit,15,Achilles tendon,Medicare,Completed
+11633,871346,Venice,Podiatry,18485,1-31-22 10:30 AM,New Patient,30,Surgical consult,Medicare,Completed
+11634,871346,Venice,Podiatry,12897,1-31-22 11:00 AM,Follow-up Visit,15,Postop,Private,Completed
+11635,871346,Venice,Podiatry,11278,1-31-22 11:45 AM,Follow-up Visit,15,Injection,Cash pay,Completed
+11636,871346,Venice,Podiatry,19023,1-31-22 12:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Completed
+11637,871346,Venice,Podiatry,18789,1-31-22 12:45 PM,Follow-up Visit,15,Heel pain,Private,Completed
+11638,871346,Venice,Podiatry,17661,1-31-22 1:00 PM,New Patient,30,Routine foot care,Medicare,Cancelled
+11639,871346,Venice,Podiatry,16475,1-31-22 1:30 PM,Follow-up Visit,15,Injection,Private,Completed
+11640,871346,Venice,Podiatry,12351,1-31-22 1:45 PM,Follow-up Visit,15,Flat feet,Private,Completed
+11641,871346,Venice,Podiatry,11059,1-31-22 2:00 PM,Follow-up Visit,15,Arch pain,Private,Completed
+11642,871346,Venice,Podiatry,15524,1-31-22 2:15 PM,Follow-up Visit,15,Ankle sprain,Private,Completed
+11643,871346,Venice,Podiatry,10427,1-31-22 2:45 PM,Follow-up Visit,15,Toe infection,Medicare,Completed
+11644,871346,Venice,Podiatry,16282,1-31-22 3:00 PM,Follow-up Visit,15,Plantar warts,Private,No-Show
+11645,871346,Venice,Podiatry,17354,1-31-22 3:30 PM,Follow-up Visit,15,Plantar fasciitis,Private,Rescheduled
